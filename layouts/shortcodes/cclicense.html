@@ -1,0 +1,7 @@
+<div class="license">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; float:left; margin: .75em 1em 0 0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+    This <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">{{ if (.Get "title") }}{{ .Get "title" }}{{ else }}work{{ end }}</span> by
+    <a xmlns:cc="http://creativecommons.org/ns#" href="{{ .Page.Permalink }}" property="cc:attributionName" rel="cc:attributionURL">{{ if (isset .Page.Params "author") }}{{ .Page.Params.author }}{{ else }}{{ .Page.Site.Params.author }}{{ end }}</a>
+    is licensed under a<br />
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</div>

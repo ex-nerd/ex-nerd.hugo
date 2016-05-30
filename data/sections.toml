@@ -1,0 +1,16 @@
+[Tech]
+title = "Technology"
+identifier = "fa fa-power-off"
+description="""\
+    If you didn't catch the irony, I'm a bit of a tech nerd.  Here, you'll find
+    ramblings about things of a technical nature for beginners and experts alike.
+    """
+
+[Food]
+title = "Eat, Drink, Cook"
+identifier = "fa fa-cutlery"
+description="""\
+    I like to eat, drink, brew, and cook.  Sometimes I'll make something that
+    I think is worth sharing, and it gets added here.
+"""
+
