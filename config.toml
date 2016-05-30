@@ -9,6 +9,9 @@ googleAnalytics = ""
 
 pluralizelisttitles = false
 
+# this doesn't seem to work on static files...
+ignoreFiles = [ "\\.psd$" ]
+
 [params]
     author = "Chris Petersen"
     # Sets the meta tag description, usually reserved for the main page

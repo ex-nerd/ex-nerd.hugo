@@ -1,0 +1,218 @@
+    @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+
+    body, #header {
+        background: url('/img/graph.png');
+        background-size: 256px 256px;
+    }
+    #main {
+        background-color: #e3e7cf;
+        display: flex;
+        flex-direction: column;
+    }
+    .post {
+        background: transparent;
+        border: none;
+    }
+    #main h1 {
+        font-size: 2em;
+        margin: 0;
+        padding: 0;
+        font-family: "Permanent Marker", "Raleway", Helvetica, sans-serif;
+    }
+    #main > article {
+        flex: 1;
+        background-color: transparent;
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        border: 0;
+        margin: 0;
+        padding: 0;
+        border-left: 2px solid #3e9357;
+        border-right: 2px solid #3e9357;
+        margin-right: 25px;
+        margin-left: 35px;
+    }
+    #main > article > header {
+        margin: 0 -27px 0 -37px;
+        padding: 0 25px 0 37px;
+        display: flex;
+        left: 0px;
+        position: relative;
+        width: calc(100% + 64px);
+        border-bottom: 2px solid #3e9357;
+    }
+    #content > .description {
+        font-family: "Raleway", Helvetica, sans-serif;
+        transform: rotate(5deg);
+        margin: -6.5em 0 2em auto;
+        padding: 1em;
+        width: 25em;
+        min-height: 5em;
+        z-index: 999;
+        border-radius: 3px;
+        border: none !important;
+        box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.2);
+        background: #BFEF9F;
+        background: linear-gradient(rgba(96, 128, 96, .2) 0%, rgba(96, 128, 96, 0) 30px), #BFEF9F;
+        /*transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;*/
+    }
+
+    #content > ul {
+        list-style-type: none !important;
+        list-style: none !important;
+        margin: 0;
+        padding: 0;
+    }
+    #content > ul li {
+        margin: 0;
+        padding: 0;
+    }
+    #content > ul .post {
+        margin: 0;
+        padding: 0;
+    }
+    #content > ul .post header, #content > ul .post .title, #content > ul .post .meta {
+        left: 0;
+        margin: 0;
+        padding: 0;
+        width: auto;
+        border: 0;
+    }
+    #main > article > header .title,
+    #main > article > header .meta {
+        border: 0;
+        padding: 1em 2em;
+    }
+    #main > article > header .meta {
+        min-width: 13em;
+        width: 13em;
+    }
+    #main > article #content {
+        background: url('/img/engineering.png');
+        background-size: 256px 256px;
+        border: 0;
+        padding: 1em;
+        flex: 1;
+    }
+    article hr {
+        height: 4px;
+        border: 0;
+        background: url('/img/hr.png');
+        background-size: 100% 4px;
+        opacity: .75;
+        background-repeat: no-repeat;
+
+        width: 75%;
+    }
+    article hr:after {  /* Not really supposed to work, but does */
+        content: "\00a0";  /* Prevent margin collapse */
+    }
+    #main > article > footer {
+        border-top: 1px solid rgba(62, 147, 87, 0.1); /* #3e9357 but with opacity */
+        padding: 1em;
+    }
+    #main > article > footer ul {
+        margin: 0;
+    }
+    .button {
+        background: #E9F4BA;
+        border-radius: 3px;
+        border: none !important;
+        box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.1);
+        transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+    }
+
+    /* actions on the single-item page, but not individual item actions in a list-page */
+    #main > .actions {
+        border-left: 2px solid #3e9357;
+        border-right: 2px solid #3e9357;
+        margin-right: 25px;
+        margin-left: 35px;
+        margin-bottom: 0;
+        padding: 1em;
+    }
+
+
+.image.featured {
+    text-decoration: none;
+    border: 5px solid white !important;
+    transform: rotate(2deg);
+    box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.6);
+    width: 30%;
+    float: right !important;
+    margin: 0 0 2em 2em;
+}
+#main > .post .image.featured {
+    width: 50%;
+    margin: -20px -55px 2em 2em;
+}
+
+
+#header {
+    border-bottom: 1px solid white !important;
+    color: white !important;
+}
+
+#header .main .search input {
+    background: url('/img/engineering.png');
+    background-size: 256px 256px;
+    border: 2px solid #3e9357;
+}
+
+#sidebar {
+    min-width: 14em;
+    width: 14em;
+}
+
+#sidebar h2 {
+    margin: 0;
+}
+
+#header,
+#header .main ul li > a,
+#header .button,
+#header h1,
+#header h2,
+#header h3,
+#header h4,
+#header h5,
+#header h6,
+#sidebar,
+#sidebar .button,
+#sidebar h1,
+#sidebar h2,
+#sidebar h3,
+#sidebar h4,
+#sidebar h5,
+#sidebar h6 {
+    color: white !important;
+}
+
+#sidebar > * {
+    border-top: solid 2px white;
+}
+
+ul ul {
+    margin: 0 !important;
+}
+
+ul.pages li {
+    border-top: solid 1px white;
+}
+
+h3 {
+    display: inline;
+}
+
+sup > a {
+    font-weight: bold;
+}
+#intro .intro-circle {
+    box-shadow: 0 0 3px 1px rgba(192, 192, 192, 0.15);
+}
+ul.posts li {
+    border: 0;
+    margin: .25em 0 0 0;
+    padding: .25em 0 0 0;
+}
