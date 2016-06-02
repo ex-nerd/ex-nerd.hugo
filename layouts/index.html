@@ -3,7 +3,41 @@
     {{ partial "navbar" . }}
     <!-- Main -->
     <div id="main">
-        This is my own index file...
+
+        <article class="list">
+        <header>
+            <div class="title">
+                 <h1>Chris Petersen</h1>
+            </div>
+        </header>
+
+        <div id="content">
+            <p>
+            Pull the summary from "about"?
+            </p>
+
+            <hr />
+
+            <ul>
+            {{ range first 3 (where .Site.Pages "Type" "!=" "page") }}
+                <li>{{ .Render "content-list" }}<hr /></li>
+            {{ end }}
+            </ul>
+
+
+
+        </div>
+
+        <footer>
+        <p class="postit">
+            These are only the most recent things I've written.
+            For the rest, feel free to check out the site navigation for
+            lists of topics and related writings.
+        </p>
+        </footer>
+
+    </article>
+
     </div>
     {{ partial "sidebar" . }}
 {{ partial "footer" . }}

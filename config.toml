@@ -101,9 +101,9 @@ ignoreFiles = [ "\\.psd$" ]
 #     weight = 4
 
 # [[menu.main]]
-#     name = "Posts"
-#     url = "/posts"
-#     identifier = "fa fa-comment"
+#     name = "Making"
+#     url = "/make"
+#     identifier = "fa fa-pencil"
 #     weight = 5
 
 [[menu.main]]
