@@ -10,7 +10,7 @@ featuredpath = "/img/food"
 featuredalt = ""
 +++
 
-Living with [Type 1 Diabetes](https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults) means that I have to closely watch my carbohydrate intake, and it's easier to do this by eating low-carb foods.  Since I don't want to give up on some of the finer things in life -- like waffles -- I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.
+Living with [Type 1 Diabetes](https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_of_adults) means that I have to closely watch my carbohydrate intake, and it's easier to do this by eating low-carb foods that make the [math](http://www.diabeticlifestyle.com/blood-glucose/carb-counting-insulin-math-diabetes) easier.  Since I don't want to give up on some of the finer things in life -- like waffles -- I spent some time formulating a decent substitute for carb-heavy grain-based waffles.  This lets me have a fairly large breakfast of applesauce, yogurt, and definitely-not-maple (but passable) syrup and still keep things under 45g of carbs.
 
 <!--more-->
 
