@@ -1,4 +1,4 @@
-baseurl = "http://ex-nerd.github.io/"
+baseurl = "http://ex-nerd.com/"
 languageCode = "en-us"
 title = "Chris Petersen"
 theme = "hugo-future-imperfect"
