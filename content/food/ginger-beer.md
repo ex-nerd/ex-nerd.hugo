@@ -3,9 +3,10 @@ date = "2016-05-08T08:00:00-07:00"
 title = "Spicy Ginger Beer"
 categories = ["Food"]
 tags = ["recipe"]
+draft = true
 +++
 
-I like spicy ginger beer.  Here is the recipe I came up with.
+I like spicy ginger beer but over the years I've seen the best and spiciest varieties disappear from the market.  Always in search of a way to do things myself, here is the recipe I came up with.
 
 <!--more-->
 
