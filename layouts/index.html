@@ -5,38 +5,58 @@
     <div id="main">
 
         <article class="list">
-        <header>
-            <div class="title">
-                 <h1>Chris Petersen</h1>
+            <header>
+                <div class="title">
+                     <h1>Chris Petersen</h1>
+                </div>
+            </header>
+
+            <div id="content">
+                <article class="intro">
+                    <p>
+                    Welcome to my online home.  I primarily use this site for
+                    behind-the-scenes software development, but in the spirit of
+                    what the web was when I first found it (you know, "back in
+                    the old days"), I like to share a few parts of my life with
+                    anyone out there who is mildly interested.
+                    </p>
+
+                    <p>
+                    I have a full time job and a great life away from this computer
+                    so I don't really update much of this site very often. However,
+                    that doesn't mean you shouldn't check back occasionally to see
+                    (or just use the RSS feed). And by all means feel free to drop
+                    me a line.
+                    </p>
+
+                    <p>
+                    I don't "blog" but I do occasionally post things that I
+                    think other people might find interesting/helpful.  You can
+                    find my most recent posts below, or take a look under one
+                    of the menus for writings on specific topics.
+                    </p>
+                </article>
+
+                <p class="postit">
+                    Here are the most recent things I've written.
+                    For the rest, check out the site navigation.
+                    for lists of topics and related writings.
+                </p>
+
+                <hr />
+
+                <ul>
+                {{ range first 3 (where .Site.Pages "Type" "!=" "page") }}
+                    <li>{{ .Render "content-list" }}<hr /></li>
+                {{ end }}
+                </ul>
+
+
             </div>
-        </header>
 
-        <div id="content">
-            <p>
-            Pull the summary from "about"?
-            </p>
+            <footer></footer>
 
-            <hr />
-
-            <ul>
-            {{ range first 3 (where .Site.Pages "Type" "!=" "page") }}
-                <li>{{ .Render "content-list" }}<hr /></li>
-            {{ end }}
-            </ul>
-
-
-
-        </div>
-
-        <footer>
-        <p class="postit">
-            These are only the most recent things I've written.
-            For the rest, feel free to check out the site navigation for
-            lists of topics and related writings.
-        </p>
-        </footer>
-
-    </article>
+        </article>
 
     </div>
     {{ partial "sidebar" . }}
