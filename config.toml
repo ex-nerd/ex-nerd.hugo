@@ -94,6 +94,12 @@ ignoreFiles = [ "\\.psd$" ]
     identifier = "fa fa-cutlery"
     weight = 3
 
+[[menu.main]]
+    name = "Beer"
+    url = "http://wingmanbrewers.com/"
+    identifier = "fa fa-beer"
+    weight = 98
+
 # [[menu.main]]
 #     name = "Health"
 #     url = "/health"
@@ -106,11 +112,11 @@ ignoreFiles = [ "\\.psd$" ]
 #     identifier = "fa fa-pencil"
 #     weight = 5
 
-[[menu.main]]
-    name = "Resume"
-    url = "/resume"
-    identifier = "fa fa-file-text"
-    weight = 99
+# [[menu.main]]
+#     name = "Resume"
+#     url = "/resume"
+#     identifier = "fa fa-file-text"
+#     weight = 99
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area

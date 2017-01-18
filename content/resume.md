@@ -1,13 +1,28 @@
 +++
 date = "2015-06-02T08:06:43Z"
 title = "Resumé:  Chris Petersen"
+draft = true
 +++
+<article class="intro">
+{{% md %}}
+Hi, you've found my "full" resume (i.e. curriculum vitae). It isn't tailored for any specific job application, and contains a very wide sampling of skills and experience (often not specifically related to my chosen profession in technology).  I mostly use it as a conversation starter before providing a more concise/professional PDF version.
+
+This is always my most up-to-date resume — if you ask me for an updated version, I will just send you this URL.  You can also feel free to check out my [linkedin.com profile](https://www.linkedin.com/in/exnerd).
+
+If you have my phone number on file, please do not call it -- don't disrespect my current employer by making me waste their time while I try to be polite about hanging up on you.  I check my email regularly and will reply quickly if I'm interested.
+
+However, I am not looking for employment at the moment. I am happily employed in a job that I enjoy. That doesn't mean that I'm not open to considering other opportunities, but it does mean that I have no interest in contract positions, anything outside of the Seattle area, or anything that pays less than what I currently make (so please provide salary ranges if you decide to contact me).
+
+{{% /md %}}
+</article>
+
+<hr />
 <!-- Updated: 2015-06-02 -->
 
 ## COMPUTER SKILLS
 
 * <h3>Software Development:</h3>
-    Advanced knowledge of Perl (20 years<!-- 1995 -->),Python (4 years<!-- 2011 -->), Java (2 years<!-- 2012 -->), Ruby/Rails (2 years<!-- 2009 -->), PHP (12 years<!-- 2002 -->), Javascript (11 years<!-- 2002 -->), UNIX shell scripting (14 years<!-- 2000 -->), and reading knowledge of Go, C, and C++.  Experience working with data exchange formats like XML, SOAP, and JSON via AJAX, XMLRPC, JSON-RPC, and REST.
+    Advanced knowledge of Perl (20 years<!-- 1995 -->), Python (4 years<!-- 2011 -->), Java (2 years<!-- 2012 -->), Ruby/Rails (2 years<!-- 2009 -->), PHP (12 years<!-- 2002 -->), Javascript (11 years<!-- 2002 -->), UNIX shell scripting (14 years<!-- 2000 -->), and reading knowledge of Go, C, and C++.  Experience working with data exchange formats like XML, SOAP, and JSON via AJAX, XMLRPC, JSON-RPC, and REST.
 * <h3>Web Design:</h3>  Expert level HTML, CSS, and Javascript (including
     AJAX/JSON and libraries like jQuery), including semantic markup, as well as a great deal of experience with SEO (search engine optimization) and web-based user interface design.  Extremely comfortable working within MVC template frameworks like Rails, and administering Apache web servers.
 * <h3>Database design:</h3>
@@ -31,11 +46,7 @@ title = "Resumé:  Chris Petersen"
         <a href="http://nordstrom.com">Nordstrom</a>.</h3>
         Seattle, WA, <i>1/12/15 to present</i>
         <ul>
-            <li>Helping design and build better mobile experiences for Nordstrom's
-                customers and salespeople alike, including the NEXT
-                salesperson-to-customer texting app with TextStyle (text-to-buy),
-                and other cool projects you could see soon online or in a store
-                near you.</li>
+            <li>Helping design and build better mobile experiences for Nordstrom's customers and salespeople alike, including the NEXT salesperson-to-customer texting app with TextStyle (text-to-buy), and other cool projects you could see soon online or in a store near you.</li>
         </ul></li>
     <li><h3>Executive Director / Lead Developer:
         <a href="http://schedulesdirect.org">Schedules Direct</a>.</h3>
@@ -44,8 +55,7 @@ title = "Resumé:  Chris Petersen"
             <li>Founding board member of nonprofit corporation that provides TV
                 listings data to users of Open Source and free software, along
                 with education about Free and Open Source software.</li>
-            <!-- li>Resigned from the board of directors in January of 2008 to take
-                up the position of Chief Operations Officer.</li -->
+            <!-- li>Resigned from the board of directors in January of 2008 to take up the position of Chief Operations Officer.</li -->
             <li>Designed, implemented and maintain schedulesdirect.org website,
                 using PHP, Perl, SOAP, CSS and Javascript technologies.</li>
             <!-- li>Currently designing a large-scale redundant content distribution

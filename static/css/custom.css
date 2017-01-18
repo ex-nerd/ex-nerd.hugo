@@ -1,161 +1,170 @@
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 @import url(https://fonts.googleapis.com/css?family=Dekko);
 
-    body, #header {
-        background: url('/img/graph.png');
-        background-size: 256px 256px;
-    }
-    #main {
-        background-color: #e3e7cf;
-        display: flex;
-        flex-direction: column;
-    }
-    .post {
-        background: transparent;
-        border: none;
-    }
-    #main h1 {
-        font-size: 2em;
-        margin: 0;
-        padding: 0;
-        font-family: "Permanent Marker", "Raleway", Helvetica, sans-serif;
-    }
-    #main > article {
-        flex: 1;
-        background-color: transparent;
-        display: flex;
-        flex-direction: column;
-        height: 100%;
-        border: 0;
-        margin: 0;
-        padding: 0;
-        border-left: 2px solid #3e9357;
-        border-right: 2px solid #3e9357;
-        margin-right: 25px;
-        margin-left: 35px;
-    }
-    #main > article > header {
-        margin: 0 -27px 0 -37px;
-        padding: 0 25px 0 37px;
-        display: flex;
-        left: 0px;
-        position: relative;
-        width: calc(100% + 64px);
-        border-bottom: 2px solid #3e9357;
-    }
-    #content > .description {
-        font-family: "Raleway", Helvetica, sans-serif;
-        transform: rotate(5deg);
-        margin: -6.5em 0 2em auto;
-        padding: 1em;
-        width: 25em;
-        min-height: 5em;
-        z-index: 999;
-        border-radius: 3px;
-        border: none !important;
-        box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.2);
-        background: #BFEF9F;
-        background: linear-gradient(rgba(96, 128, 96, .2) 0%, rgba(96, 128, 96, 0) 30px), #BFEF9F;
-        /*transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;*/
-    }
+body, #header {
+    background: url('/img/graph.png');
+    background-size: 256px 256px;
+}
+#menu {
+    background: url('/img/graph2.png');
+    background-size: 256px 256px;
+}
+#main {
+    background-color: #e3e7cf;
+    display: flex;
+    flex-direction: column;
+}
+.post {
+    background: transparent;
+    border: none;
+}
+#main h1 {
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    font-family: "Permanent Marker", "Raleway", Helvetica, sans-serif;
+}
+#main > article {
+    flex: 1;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    border-left: 2px solid #3e9357;
+    border-right: 2px solid #3e9357;
+    margin-right: 25px;
+    margin-left: 35px;
+}
+#main > article > header {
+    margin: 0 -27px 0 -37px;
+    padding: 0 25px 0 37px;
+    display: flex;
+    left: 0px;
+    position: relative;
+    width: calc(100% + 64px);
+    border-bottom: 2px solid #3e9357;
+    /* workaround while content flex box isn't rendering properly */
+    min-height: 5em;
+}
+#content > .description {
+    font-family: 'Dekko', sans-serif;
+    font-size: 110%;
+    transform: rotate(5deg);
+    margin: -6.5em 0 2em auto;
+    padding: 1em;
+    width: 25em;
+    min-height: 5em;
+    z-index: 999;
+    border-radius: 3px;
+    border: none !important;
+    box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.2);
+    background: #BFEF9F;
+    background: linear-gradient(rgba(96, 128, 96, .2) 0%, rgba(96, 128, 96, 0) 30px), #BFEF9F;
+    /*transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;*/
+}
 
-    footer > .postit {
-        font-family: "Raleway", Helvetica, sans-serif;
-        transform: rotate(-2deg);
-        margin: -3em auto -5em calc(50% - 12.5em) !important;
-        padding: 1em;
-        width: 25em;
-        min-height: 5em;
-        z-index: 999;
-        border-radius: 3px;
-        border: none !important;
-        box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.2);
-        background: #7BD9FF;
-        background: linear-gradient(rgba(96, 96, 128, .2) 0%, rgba(96, 96, 128, 0) 30px), #7BD9FF;
-    }
+#main .postit {
+    font-family: 'Dekko', sans-serif;
+    font-size: 110%;
+    transform: rotate(-2deg);
+    margin: -.5em auto -3em 5% !important;
+    padding: 1em;
+    position: relative;
+    width: 20em;
+    min-height: 5em;
+    z-index: 999;
+    border-radius: 3px;
+    border: none !important;
+    box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.2);
+    background: #7BD9FF;
+    background: linear-gradient(rgba(96, 96, 128, .2) 0%, rgba(96, 96, 128, 0) 30px), #7BD9FF;
+}
 
-    .list #content > ul {
-        list-style-type: none !important;
-        list-style: none !important;
-        margin: 0;
-        padding: 0;
-    }
-    .list #content > ul li {
-        margin: 0;
-        padding: 0;
-    }
-    .list #content > ul .taxonomy,
-    .list #content > ul .post {
-        margin: 0;
-        padding: 0;
-    }
-    .taxonomy > header,
-    .post > header {
-        width: 100%;
-        display: flex;
-    }
-    #content > ul .taxonomy header, #content > ul .taxonomy .title, #content > ul .taxonomy .meta,
-    #content > ul .post header, #content > ul .post .title, #content > ul .post .meta {
-        left: 0;
-        margin: 0;
-        padding: 0;
-        width: auto;
-        border: 0;
-    }
-    #main > article > header .title,
-    #main > article > header .meta {
-        border: 0;
-        padding: 1em 2em;
-    }
-    #main > article > header .meta {
-        min-width: 13em;
-        width: 13em;
-    }
-    #main > article #content {
-        background: url('/img/engineering.png');
-        background-size: 256px 256px;
-        border: 0;
-        padding: 1em;
-        flex: 1;
-    }
-    article hr {
-        height: 4px;
-        border: 0;
-        background: url('/img/hr.png');
-        background-size: 100% 4px;
-        opacity: .75;
-        background-repeat: no-repeat;
+.list #content > ul {
+    list-style-type: none !important;
+    list-style: none !important;
+    margin: 0;
+    padding: 0;
+}
+.list #content > ul li {
+    margin: 0;
+    padding: 0;
+}
+.list #content > ul .taxonomy,
+.list #content > ul .post {
+    margin: 0;
+    padding: 0;
+}
+.taxonomy > header,
+.post > header {
+    width: 100%;
+    display: flex;
+}
+#content > ul .taxonomy header, #content > ul .taxonomy .title, #content > ul .taxonomy .meta,
+#content > ul .post header, #content > ul .post .title, #content > ul .post .meta {
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    border: 0;
+}
+#main > article > header .title,
+#main > article > header .meta {
+    border: 0;
+    padding: 1em 2em;
+}
+#main > article > header .meta {
+    min-width: 13em;
+    width: 13em;
+}
+#main > article #content {
+    background: url('/img/engineering.png');
+    background-size: 256px 256px;
+    border: 0;
+    padding: 1em;
+    flex: 1;
+    flex-direction: column;
+}
+article hr {
+    height: 4px;
+    border: 0;
+    background: url('/img/hr.png');
+    background-size: 100% 4px;
+    opacity: .75;
+    background-repeat: no-repeat;
 
-        width: 75%;
-    }
-    article hr:after {  /* Not really supposed to work, but does */
-        content: "\00a0";  /* Prevent margin collapse */
-    }
-    #main > article > footer {
-        border-top: 1px solid rgba(62, 147, 87, 0.1); /* #3e9357 but with opacity */
-        padding: 1em;
-    }
-    #main > article > footer ul {
-        margin: 0;
-    }
-    .button {
-        background: #E9F4BA;
-        border-radius: 3px;
-        border: none !important;
-        box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.1);
-        transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
-    }
+    width: 75%;
+}
+article hr:after {  /* Not really supposed to work, but does */
+    content: "\00a0";  /* Prevent margin collapse */
+}
+#main > article > footer {
+    border-top: 1px solid rgba(62, 147, 87, 0.1); /* #3e9357 but with opacity */
+    padding: 1em;
+}
+#main > article > footer ul {
+    margin: 0;
+}
+.button {
+    background: #E9F4BA;
+    border-radius: 3px;
+    border: none !important;
+    box-shadow: 1px 1px 1px 1px rgba(96,96,96,0.1);
+    transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+}
 
-    /* actions on the single-item page, but not individual item actions in a list-page */
-    #main > .actions {
-        border-left: 2px solid #3e9357;
-        border-right: 2px solid #3e9357;
-        margin-right: 25px;
-        margin-left: 35px;
-        margin-bottom: 0;
-        padding: 1em;
-    }
-
+/* actions on the single-item page, but not individual item actions in a list-page */
+#main > .actions {
+    border-left: 2px solid #3e9357;
+    border-right: 2px solid #3e9357;
+    margin-right: 25px;
+    margin-left: 35px;
+    margin-bottom: 0;
+    padding: 1em;
+}
 
 .image.featured {
     text-decoration: none;
@@ -171,81 +180,80 @@
     margin: -20px -55px 2em 2em;
 }
 
-    #main article.intro {
-        font-family: 'Dekko', sans-serif;
-        font-size: 110%;
+#main article.intro {
+    font-family: 'Dekko', sans-serif;
+    font-size: 110%;
+}
+
+@media screen and (max-width: 1280px) {
+
+    /*
+        temporary fix until I edit the javascript that puts this
+        inside of #main when the page width shrinks.
+    */
+    #intro {
+        display: none;
     }
 
-    @media screen and (max-width: 1280px) {
+}
 
-        /*
-            temporary fix until I edit the javascript that puts this
-            inside of #main when the page width shrinks.
-        */
-        #intro {
-            display: none;
-        }
+@media screen and (max-width: 980px) {
 
+    /*
+        temporary fix until I edit the javascript that puts this
+        inside of #main when the page width shrinks.
+    */
+    #intro {
+        display: none;
     }
 
-    @media screen and (max-width: 980px) {
-
-        /*
-            temporary fix until I edit the javascript that puts this
-            inside of #main when the page width shrinks.
-        */
-        #intro {
-            display: none;
-        }
-
-        #content > ul .taxonomy,
-        #content > ul .post {
-            padding: 1.5em;
-        }
-
-        #main > article > header .title,
-        #main > article > header .meta {
-            border: 0;
-            padding: 0 1.5em !important;
-            margin: 0 auto !important;
-            text-align: center;
-        }
-
-        #content > .description {
-            transform: none !important;
-            margin: .5em auto;
-            max-width: 90%;
-            min-height: 5em;
-            border-radius: 3px;
-        }
-
-        #main > article {
-            left: 0 !important;
-            width: calc(100% - 60px) !important;
-        }
-
-        .image.featured {
-            transform: none !important;
-            width: 50% !important;
-            float: none !important;
-            margin: .5em auto !important;
-        }
-        #main > .post .image.featured {
-            width: 75% !important;
-            margin: .5em auto !important;
-        }
-        hr {
-            width: 100% !important;
-        }
+    #content > ul .taxonomy,
+    #content > ul .post {
+        padding: 1.5em;
     }
 
+    #main > article > header .title,
+    #main > article > header .meta {
+        border: 0;
+        padding: 0 1.5em !important;
+        margin: 0 auto !important;
+        text-align: center;
+    }
+
+    #content > .description {
+        transform: none !important;
+        margin: .5em auto;
+        max-width: 90%;
+        min-height: 5em;
+        border-radius: 3px;
+    }
+
+    #main > article {
+        left: 0 !important;
+        width: calc(100% - 60px) !important;
+    }
+
+    .image.featured {
+        transform: none !important;
+        width: 50% !important;
+        float: none !important;
+        margin: .5em auto !important;
+    }
+    #main > .post .image.featured {
+        width: 75% !important;
+        margin: .5em auto !important;
+    }
+    hr {
+        width: 100% !important;
+    }
+}
 
 #header {
     border-bottom: 1px solid white !important;
     color: white !important;
 }
 
-#header .main .search input {
+#header .main .search input, #menu .search input {
     background: url('/img/engineering.png');
     background-size: 256px 256px;
     border: 2px solid #3e9357;
