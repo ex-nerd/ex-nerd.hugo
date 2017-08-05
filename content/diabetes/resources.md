@@ -19,10 +19,12 @@ especially helpful.
 ### Participate in Research:
 * https://www.benaroyaresearch.org/
 * http://www.jdrf.org/research/clinical-trials/
+* https://www.findmecure.com/
 
 ### Diagnosing Diabetes:
 * http://www.diabetesincontrol.com/adajdrf-type-1-diabetes-sourcebook-excerpt-1-diagnosing-diabetes/
 * http://www.diabetesforecast.org/2015/sep-oct/tests-to-determine-diabetes.html
+* http://www.joslin.org/info/genetics_and_diabetes.html
 
 ### Insulin:
 * http://www.straighthealthcare.com/insulin-chart.html
@@ -36,7 +38,7 @@ especially helpful.
 * https://www.diabetesselfmanagement.com/nutrition-exercise/meal-planning/counting-carbohydrates-like-a-pro/
 * https://www.diabetesselfmanagement.com/blog/how-do-you-do-fiber/
 
-###  Stages:
+### Stages:
 * http://blog.joslin.org/2016/01/identifying-stages-of-type-1-diabetes-could-help-with-intervention/
 * http://care.diabetesjournals.org/content/38/10/1964.full
 
@@ -47,10 +49,26 @@ especially helpful.
 * https://www.eeoc.gov/laws/types/diabetes.cfm
 * http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/employment-materials/proving-diabetes-is-a-disability.html
 
+### Disability?
+* https://community.beyondtype1.org/posts/1188054
+
 ### Treating low blood sugar
 * http://www.joslin.org/info/how_to_treat_a_low_blood_glucose.html
 
-###  Test strip subscription plans:
+### Test strip subscription plans:
 * https://shop.mydario.com/ - 200 strips for $50/month
 * https://start.onedrop.today/collections/test-strips-subscription-plans - unlimited: $40/month
 * https://diatribe.org/new-livongo-unlimited-test-strips-and-coaching - unlimited: $50/month
+
+### Travel, Flying, TSA
+* https://beyondtype1.org/type-1-tsa-know-taking-off/
+
+### Alcohol
+* https://mysugr.com/diabetes-and-alcohol/
+* https://dtc.ucsf.edu/living-with-diabetes/diet-and-nutrition/diabetes-alcohol/
+  * Details: https://diabetes.ucsf.edu/sites/diabetes.ucsf.edu/files/PEDS%20Alcohol%20and%20Diabetes.pdf
+* https://www.thediabetescouncil.com/effects-of-alcohol-on-diabetes/
+* https://pubs.niaaa.nih.gov/publications/arh22-3/211.pdf
+
+### The Name "Diabetes"
+* http://www.healthline.com/diabetesmine/the-kerfuffle-over-new-names-for-type-1-and-type-2-diabetes
