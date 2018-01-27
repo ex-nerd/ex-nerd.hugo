@@ -41,11 +41,11 @@ Of course, you can also use a standard brewing airlock.  They only cost about $2
 Next, follow these relatively simple steps:
 
 1. Pour off a glass or so worth of apple juice and set it aside (you'll need some of it in a bit).
-2. Put the sugar into a saucepan.  More sugar means .
-3. Add enough apple juice to the saucepan to dissolve the sugar over low heat.
-4. Once the sugar is dissolved,
-5. Toss in about &frac12; tsp of yeast (a yeast packet usually holds a 
-6. Wash the powdered anti-stick stuff out of the balloon, and prick it 
+2. Put the sugar into a saucepan.  More sugar means a sweeter cider and more alcohol, darker sugar means a darker cider with a stronger flavor. I like about 4.5 cups, half dark-brown and half white sugar.
+3. Add enough apple juice to the saucepan to dissolve the sugar over low heat.  You shouldn't need more than half of the remaining cider.
+4. Once the sugar is dissolved, let the mixture cool until until it's not hot enough to burn you (or the yeast), and pour it back into the bottle (use a funnel if you need to).  The bottle should now be full of warm extra-sweet juice.
+5. Toss in about &frac12; tsp of yeast (a yeast packet usually holds a little over 2 tsp, so don't throw the whole thing in), and top off the bottle with the juice you set aside in step 1.  Leave a few inches at the top of the bottle -- don't let it get too full.
+6. Wash the powdered anti-stick stuff out of the balloon, and prick it with a pin.  Then place the balloon on top of the bottle.  The pin-prick will be enough to let air escape from the bottle, but not big enough to let any nasty bacteria back in.
 7. That's it!  Let this sit for 2-3 weeks.
 
 After 2-3 weeks, you will need to "rack" the cider.  Racking is the process of
@@ -67,4 +67,3 @@ wherever you chose to set your brew). Trust me, you don't want that.
 
 P.S. If you would like to read a more detailed story and recipe about apples and cider, check out this blog post about my first
 [apple pressing party](http://pieofthetiger.com/2009/11/apple-pressing-party/).
-
