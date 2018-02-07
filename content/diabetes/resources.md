@@ -33,6 +33,7 @@ especially helpful.
 * http://www.straighthealthcare.com/insulin-chart.html
 * http://www.diabetesnet.com/about-diabetes/insulin/insulin-action-time
 * http://www.webmd.com/diabetes/guide/diabetes-types-insulin
+* Types of insulin (acting times): https://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/
 * In the fridge: https://blog.medangel.co/insulin-pens-are-welcome-back-to-the-fridge-49d37511c88c
 * Temperature: https://beyondtype1.org/thermometers-insulin/
 * Insulin Pooling: https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
@@ -66,7 +67,7 @@ especially helpful.
 * http://www.joslin.org/info/how_to_treat_a_low_blood_glucose.html
 
 ### Test strip subscription plans:
-* https://start.onedrop.today/collections/test-strips-subscription-plans - unlimited: $40/month
+* https://start.onedrop.today/products/test-strips-plans - unlimited: $34/month paid annually
 * https://diatribe.org/new-livongo-unlimited-test-strips-and-coaching - unlimited: $50/month
 * https://mysugr.com/us/bundle/ - unlimited: $40/month
 * https://shop.mydario.com/ - 200 strips for $50/month
@@ -83,7 +84,7 @@ especially helpful.
   * Details: https://diabetes.ucsf.edu/sites/diabetes.ucsf.edu/files/PEDS%20Alcohol%20and%20Diabetes.pdf
 * https://www.thediabetescouncil.com/effects-of-alcohol-on-diabetes/
 * https://pubs.niaaa.nih.gov/publications/arh22-3/211.pdf
-* https://www.youtube.com/watch?v=GRvjBrFvnSk
+* TCOYD, Alcohol and Diabetes: https://www.youtube.com/watch?v=GRvjBrFvnSk
 
 ### Driver's License 
 * http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/drivers-licenses/drivers-license-laws-by-state.html
