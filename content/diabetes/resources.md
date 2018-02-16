@@ -68,7 +68,7 @@ especially helpful.
 
 ### Test strip subscription plans:
 * https://start.onedrop.today/products/test-strips-plans - unlimited: $34/month paid annually
-* https://diatribe.org/new-livongo-unlimited-test-strips-and-coaching - unlimited: $50/month
+* https://diatribe.org/new-livongo-unlimited-test-strips-and-coaching - unlimited: $65/month
 * https://mysugr.com/us/bundle/ - unlimited: $40/month
 * https://shop.mydario.com/ - 200 strips for $50/month
 

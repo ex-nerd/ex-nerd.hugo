@@ -23,6 +23,11 @@ Autoimmune disorders are extremely complex -- I have friends with Celiac who exp
   * Type 1B (idiopathic)
   * LADA
   * Type 1.5
+    - "Type 1/2" in Editorial: Insulin-dependent? Lancet 2:809-10, 1985
+       (referenced by Toumi, et. al)
+       * http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9
+       * https://www.sciencedirect.com/science/article/pii/S0140673685907986?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb
+    -  http://care.diabetesjournals.org/content/11/7/531.short
   * http://care.diabetesjournals.org/content/26/2/536.long
 
 https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cudworth
@@ -31,6 +36,7 @@ https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cud
 * [Type 3c (Pancreatogenic)](https://en.wikipedia.org/wiki/Type_3c_(Pancreatogenic)_Diabetes)
   * https://asweetlife.org/what-is-type-3c-diabetes/
   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495015/
+  * https://www.medscape.com/viewarticle/887842
 * [Gestational Diabetes](https://en.wikipedia.org/wiki/Gestational_diabetes): Pregnancy
 * [Neonatal DM](https://en.wikipedia.org/wiki/Neonatal_diabetes_mellitus)
 * [MODY](https://en.wikipedia.org/wiki/Maturity_onset_diabetes_of_the_young): Genetic
