@@ -7,4 +7,8 @@ draft = true
 +++
 * TCOYD: https://tcoyd.org/conference-national/detail/one-the-ultimate-conference-retreat-for-adults-with-type-1-2018-08-17/
   * a1c: https://www.youtube.com/watch?v=602_54vHDbc
+    * paper referenced: https://www.ncbi.nlm.nih.gov/pubmed/22025782
   * alcohol: https://www.youtube.com/watch?v=GRvjBrFvnSk
+  * sugar surfing: https://www.youtube.com/watch?v=zEJcvguogfs
+
+* TCOYD One 2018: https://tcoyd.org/one-2018/
