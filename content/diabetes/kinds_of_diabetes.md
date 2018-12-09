@@ -24,6 +24,8 @@ Autoimmune disorders are extremely complex -- I have friends with Celiac who exp
 
 Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com/viewarticle/893305
 
+2014 Classification: http://care.diabetesjournals.org/content/37/Supplement_1/S81.long
+
 
   * Type 1B (idiopathic)
     * https://www.healthcentral.com/article/idiopathic-diabetes
@@ -41,16 +43,20 @@ https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cud
 john Lister: https://www.diapedia.org/type-1-diabetes-mellitus/2104085134/historical-aspects-of-type-1-diabetes
 
 * [Type 2 DM](https://en.wikipedia.org/wiki/Diabetes_mellitus_type_2): Metabolic
+  * insulin resistance: https://www.ncbi.nlm.nih.gov/books/NBK507839/
 * [Type 3c (Pancreatogenic)](https://en.wikipedia.org/wiki/Type_3c_(Pancreatogenic)_Diabetes)
   * https://asweetlife.org/what-is-type-3c-diabetes/
-  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495015/
+  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495015/ (recommendation)
   * https://www.medscape.com/viewarticle/887842
   * http://www.diabetesincontrol.com/awareness-of-type-3c-diabetes-and-why-it-is-misdiagnosed/
 * [Gestational Diabetes](https://en.wikipedia.org/wiki/Gestational_diabetes): Pregnancy
 * [Neonatal DM](https://en.wikipedia.org/wiki/Neonatal_diabetes_mellitus)
 * [MODY](https://en.wikipedia.org/wiki/Maturity_onset_diabetes_of_the_young): Genetic
+  * up to 5% of people with diabetes
+  * http://monogenicdiabetes.uchicago.edu/for-healthcare-professionals/mody/
 * [Mitochondrial Diabetes](https://en.wikipedia.org/wiki/Diabetes_mellitus_and_deafness): Genetic
 * [Type 3 (Alzheimer's)](https://en.wikipedia.org/wiki/Type_3_diabetes)
 * Cystic-Fibrosis-Related-Diabetes
 CFRD: https://www.cff.org/Life-With-CF/Daily-Life/Cystic-Fibrosis-Related-Diabetes/
+  * It appears that this is also sometimes included within Type 3c.
 
