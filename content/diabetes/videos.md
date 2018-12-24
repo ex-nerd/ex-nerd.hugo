@@ -11,4 +11,5 @@ draft = true
   * alcohol: https://www.youtube.com/watch?v=GRvjBrFvnSk
   * sugar surfing: https://www.youtube.com/watch?v=zEJcvguogfs
 
+* TCOYD One 2017: https://tcoyd.org/one-2017/
 * TCOYD One 2018: https://tcoyd.org/one-2018/
