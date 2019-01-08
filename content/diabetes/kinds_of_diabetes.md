@@ -24,7 +24,7 @@ Autoimmune disorders are extremely complex -- I have friends with Celiac who exp
 
 Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com/viewarticle/893305
 
-2014 Classification: http://care.diabetesjournals.org/content/37/Supplement_1/S81.long
+2018 Classification: http://care.diabetesjournals.org/content/37/Supplement_1/S81.long
 
 
   * Type 1B (idiopathic)
@@ -36,7 +36,9 @@ Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com
        * http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9
          - "When diabetes is again reclassified we may find them accommodated in a new category of type 1 1/2 diabetes -- a condition in which insulin sustains not life itself but the quality of life."
        * https://www.sciencedirect.com/science/article/pii/S0140673685907986?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb
-    -  Referenced by:  1988 article about classification of adults as IDDM: http://care.diabetesjournals.org/content/11/7/531.short
+    -  Referenced by:  1988 article about classification of adults as IDDM:
+      - http://care.diabetesjournals.org/content/11/7/531.short
+      - https://www.researchgate.net/publication/19951866_Classification_of_Newly_Diagnosed_Diabetic_Patients_as_Insulin-Requiring_or_Non--Insulin-Requiring_Based_on_Clinical_and_Biochemical_Variables
   * What's in a name? http://care.diabetesjournals.org/content/26/2/536.long
 
 https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cudworth
