@@ -37,11 +37,26 @@ Let sit 3-4 minutes to allow the gluten and cinnamon to hydrate.
 
 Cook according to waffle maker directions.
 
+**Variations:**
+
+* Carbquik:
+  * Use Carbquick in a 1:1 ratio with this mix for lower fat content and fewer calories.
+  * The carb count is about the same as almond flour, and I think the two mixtures work
+    well together for better textured waffles.
+* Buttermilk:
+  * Buttermilk adds a nice flavor and bit of browning to the waffles that you just don't
+    get from the almond milk.
+  * Substitute buttermilk for the almond milk
+  * Add 1/4 tsp baking soda so the buttermilk's acidity doesn't interfere with the baking powder.
+  * Buttermilk adds about 3g carbs per 1/4 cup.
+
 **Notes:**
 
 * _This recipe also works great for pancakes if you add a bit more liquid, and another 1/8 tsp baking powder (I usually triple it and round up to 1/2 tsp baking powder)._
+* I measure the ingredients by weight because it's faster and saves me from washing a measuring cup.
+  * According to the packaging, 1/4 cup of almond flour or Carbquik weighs about 30g. In practice, I find that it's closer to 40g.
 * I buy the almond milk at Whole Foods but have seen it in other stores.  The unsweetened variety is basically 0g net carbs.  More info from [Califia Farms](http://www.califiafarms.com/products/almondmilk/unsweetened).
-* I count this recipe as 5g net carbs. The almond flour I use is 6g per 1/4 cup but at 50% fiber I count it as 4g net. Everything else is under 1g net for the amounts used in the recipe, and I round up just to be safe.
+* I count this recipe as 5g net carbs. The almond flour I use is 5g per 1/4 cup but at 60% fiber I count it as 3g net. Everything else is under 1g net for the amounts used in the recipe, and I round up just to be safe.
 
 
 
