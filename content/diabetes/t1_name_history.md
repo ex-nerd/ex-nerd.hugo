@@ -43,7 +43,7 @@ _Note: I am still looking for evidence for when this term became symonymous with
 
 ### LADA: Latent Autoimmune Diabetes in Adults
 
-The term LADA was proposed by [Toumi, et. al. in 1993<sup>3</sup>](#3) to speak of the same condition, this time with more understanding of the autoimmune process behind the disease: autoimmune diabetes diagnosed in adulthood (which usually presents itself slowly and back then was thought to be treatable with medications intended for people with what was then called non-insulin dependent diabetes).  
+The term LADA was proposed by [Toumi, et. al. in 1993<sup>3</sup>](#3) to speak of the same condition, this time with more understanding of the autoimmune process behind the disease: autoimmune diabetes diagnosed in adulthood (which usually presents itself slowly and back then was thought to be treatable with medications intended for people with what was then called non-insulin dependent diabetes).
 
 _Note: Yes, I plan to add more details in this section..._
 
@@ -53,7 +53,8 @@ In 1995, the US caught up with the rest of the world (_Note: I'm still looking f
 
 ### Whats next?
 
-TBD.  
+TBD.
+
 * The current state of naming confusion and continued (mis?) use of T1.5 and LADA
 * Genetic research showing possible differences between rapid- and slow-onset T1
 * Any other ideas?
@@ -65,6 +66,8 @@ For now, check out this article from 2003:
 
 ---
 
+<!-- pity hugo won't process this:  div markdown="1" style="font-size: 80%" -->
+
 - <a name="1"></a>\[1] "Type 1 1/2" in Editorial: Insulin-dependent? Lancet 2:809-10, 1985
   - http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9
   - The full text of this article is not available online for free but can be obtained through educational institutions with the appropriate library subscriptions.
@@ -74,3 +77,5 @@ For now, check out this article from 2003:
 - <a name="3"></a>\[3] {#3} "Antibodies to Glutamic Acid Decarboxylase Reveal Latent Autoimmune Diabetes Mellitus in Adults With a Non—Insulin-Dependent Onset of Disease" in Diabetes 1993 Feb; 42(2): 359-362.
   - https://www.ncbi.nlm.nih.gov/pubmed/8425674
   - http://diabetes.diabetesjournals.org/content/42/2/359.long
+
+<!-- /div -->
