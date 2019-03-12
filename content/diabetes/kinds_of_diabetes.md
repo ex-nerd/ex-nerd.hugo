@@ -18,7 +18,7 @@ The name "Diabetes Mellitus" dates back roughly 500 years, and as Melitta said t
 
 LADA was proposed in a paper in 1993 as a form of autoimmune DM that showed signs of insulin resistance.  At some point after that, "Type 1.5" which referred to someone with Type 1 and insulin resistance (aka "double diabetes", though both terms are discouraged among the medical community), became associated more with adult-onset than with juvenile-onset T1.  However, we now know that people with adult-onset and slow-onset T1 show roughly the same rates of insulin resistance as the general non-diabetic population (meaning, it has no statistically significant correlation with T1).  At this point, LADA means just what its name suggests -- a latent form of autoimmune diabetes.  This lines up well with the findings from Trialnet that show *most* people who develop T1 later in life will have developed autoantibodies by the time they turn 18 (this is recognized as "Stage 1 T1DM") but the disease sits latent for years/decades before progressing to Stage 2 and beyond (if it ever does).
 
-Anyway, there *is* evidence that rate and age of onset are separate conditions within the overall classification of "Type 1 or Autoimmune DM", but this is *very* cutting edge research and at the moment leaves more open questions than answers.  E.g. a recent paper (http://www.exeter.ac.uk/research/newsandevents/news/title_606216_en.html) identified 3 genotypes strongly correlated to 3 distinct age ranges for onset.  However there are over 50 different genotypes associated with T1, so that's just a drop in the bucket.  
+Anyway, there *is* evidence that rate and age of onset are separate conditions within the overall classification of "Type 1 or Autoimmune DM", but this is *very* cutting edge research and at the moment leaves more open questions than answers.  E.g. a recent paper (http://www.exeter.ac.uk/research/newsandevents/news/title_606216_en.html) identified 3 genotypes strongly correlated to 3 distinct age ranges for onset.  However there are over 50 different genotypes associated with T1, so that's just a drop in the bucket.
 
 Autoimmune disorders are extremely complex -- I have friends with Celiac who explain that it's more like 1000 separate but related disorders because everyone reacts differently to different variations of gluten.  I suspect that T1 is the same way.
 
@@ -51,6 +51,7 @@ john Lister: https://www.diapedia.org/type-1-diabetes-mellitus/2104085134/histor
   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495015/ (recommendation)
   * https://www.medscape.com/viewarticle/887842
   * http://www.diabetesincontrol.com/awareness-of-type-3c-diabetes-and-why-it-is-misdiagnosed/
+  * http://care.diabetesjournals.org/content/31/Supplement_2/S165 (2008!)
 * [Gestational Diabetes](https://en.wikipedia.org/wiki/Gestational_diabetes): Pregnancy
 * [Neonatal DM](https://en.wikipedia.org/wiki/Neonatal_diabetes_mellitus)
 * [MODY](https://en.wikipedia.org/wiki/Maturity_onset_diabetes_of_the_young): Genetic

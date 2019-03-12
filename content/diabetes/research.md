@@ -10,6 +10,7 @@ draft = true
 
 * LADA:
   * insulin resistance: https://www.ncbi.nlm.nih.gov/pubmed/14679095
+  * identifying: http://spectrum.diabetesjournals.org/content/29/4/249
 
 * what's in a name? http://care.diabetesjournals.org/content/26/2/536
 
@@ -17,7 +18,7 @@ draft = true
 
 * beta cell preservation: https://www.ncbi.nlm.nih.gov/m/pubmed/9518395/
 
-* Seroconversion to Multiple Islet Autoantibodies and Risk of Progression to Diabetes in Children: 
+* Seroconversion to Multiple Islet Autoantibodies and Risk of Progression to Diabetes in Children:
   * https://jamanetwork.com/journals/jama/fullarticle/1697963
   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878912/
 * Development of antibodies: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3161292/
