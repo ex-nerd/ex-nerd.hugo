@@ -24,8 +24,7 @@ Autoimmune disorders are extremely complex -- I have friends with Celiac who exp
 
 Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com/viewarticle/893305
 
-2018 Classification: http://care.diabetesjournals.org/content/37/Supplement_1/S81.long
-
+2019 Classification: http://care.diabetesjournals.org/content/42/Supplement_1/S13
 
   * Type 1B (idiopathic)
     * https://www.healthcentral.com/article/idiopathic-diabetes
