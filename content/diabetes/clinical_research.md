@@ -3,6 +3,7 @@ date = "2019-05-02T20:00:00-07:00"
 title = "Participate in Clinical Research!"
 categories = ["Diabetes"]
 tags = ["health", "diabetes"]
+images = ["/img/health/research.jpg"]
 
 linktitle = ""
 featured = "research.jpg"
