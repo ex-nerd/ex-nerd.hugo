@@ -25,6 +25,10 @@ Autoimmune disorders are extremely complex -- I have friends with Celiac who exp
 Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com/viewarticle/893305
 
 2019 Classification: http://care.diabetesjournals.org/content/42/Supplement_1/S13
+* search for official T1 naming reference shows June 1997: https://www.aafp.org/afp/1998/1015/p1355.html and full text behind paywall: http://care.diabetesjournals.org/content/20/7/1183
+* 1979 classification: http://diabetes.diabetesjournals.org/content/28/12/1039
+
+Types:
 
   * Type 1B (idiopathic)
     * https://www.healthcentral.com/article/idiopathic-diabetes
@@ -39,6 +43,11 @@ Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com
       - http://care.diabetesjournals.org/content/11/7/531.short
       - https://www.researchgate.net/publication/19951866_Classification_of_Newly_Diagnosed_Diabetic_Patients_as_Insulin-Requiring_or_Non--Insulin-Requiring_Based_on_Clinical_and_Biochemical_Variables
   * What's in a name? http://care.diabetesjournals.org/content/26/2/536.long
+  * LADA: Time for a new definition: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3554376/ (2013)
+  * 2018 current status:
+    * June: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/
+    * Dec: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6300440/
+
 
 https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cudworth
 john Lister: https://www.diapedia.org/type-1-diabetes-mellitus/2104085134/historical-aspects-of-type-1-diabetes
