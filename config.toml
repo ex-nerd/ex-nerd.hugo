@@ -79,32 +79,38 @@ ignoreFiles = [ "\\.psd$" ]
 [[menu.main]]
     name = "About"
     url = "/about"
-    identifier = "fa fa-user"
+    identifier = "fas fa-user"
     weight = 1
 
 [[menu.main]]
     name = "Tech"
     url = "/tech"
-    identifier = "fa fa-power-off"
+    identifier = "fas fa-power-off"
     weight = 2
 
 [[menu.main]]
     name = "Food"
     url = "/food"
-    identifier = "fa fa-cutlery"
+    identifier = "fas fa-utensils"
     weight = 3
 
 [[menu.main]]
-    name = "Beer"
-    url = "http://wingmanbrewers.com/"
-    identifier = "fa fa-beer"
-    weight = 98
+    name = "Making"
+    url = "/making"
+    identifier = "fas fa-hammer"
+    weight = 4
 
 [[menu.main]]
     name = "Diabetes"
     url = "/diabetes"
-    identifier = "fa fa-tint"
-    weight = 4
+    identifier = "fas fa-tint"
+    weight = 5
+
+[[menu.main]]
+    name = "Beer"
+    url = "http://wingmanbrewers.com/"
+    identifier = "fas fa-beer"
+    weight = 98
 
 # [[menu.main]]
 #     name = "Making"

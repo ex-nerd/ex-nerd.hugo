@@ -1,13 +1,13 @@
 [about]
 title = "About"
-identifier = "fa fa-user"
+identifier = "fas fa-user"
 description="""\
     All about me and this site.
     """
 
 [tech]
 title = "Technology"
-identifier = "fa fa-power-off"
+identifier = "fas fa-power-off"
 description="""\
     If you didn't catch the irony, I'm a bit of a tech nerd.  Here, you'll find
     ramblings about things of a technical nature for beginners and experts alike.
@@ -15,15 +15,23 @@ description="""\
 
 [food]
 title = "Eat, Drink, Cook"
-identifier = "fa fa-cutlery"
+identifier = "fas fa-utensils"
 description="""\
     I like to eat, drink, brew, and cook.  Sometimes I'll make something that
     I think is worth sharing, and it gets added here.
     """
 
+[making]
+title = "Making"
+identifier = "fas fa-hammer"
+description="""\
+    I like to make things. If something is interesting or useful enough, I'll
+    write about it here along with a bunch of photos.
+    """
+
 [diabetes]
 title = "Diabetes"
-identifier = "fa fa-tint"
+identifier = "fas fa-tint"
 description="""\
     I have Type 1 Diabates.  Keep reading if you would like to learn something
     about this often-misunderstood disease.
