@@ -94,11 +94,11 @@ ignoreFiles = [ "\\.psd$" ]
     identifier = "fas fa-utensils"
     weight = 3
 
-[[menu.main]]
-    name = "Making"
-    url = "/making"
-    identifier = "fas fa-hammer"
-    weight = 4
+# [[menu.main]]
+#     name = "Making"
+#     url = "/making"
+#     identifier = "fas fa-hammer"
+#     weight = 4
 
 [[menu.main]]
     name = "Diabetes"
