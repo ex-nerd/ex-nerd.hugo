@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:ex-nerd/ex-nerd.github.io.git
 	branch = master
+[submodule "hugo-easy-gallery"]
+	path = hugo-easy-gallery
+	url = https://github.com/liwenyip/hugo-easy-gallery.git

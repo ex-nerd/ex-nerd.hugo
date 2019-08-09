@@ -70,6 +70,7 @@ especially helpful.
 * In the fridge: https://blog.medangel.co/insulin-pens-are-welcome-back-to-the-fridge-49d37511c88c
 * Temperature: https://beyondtype1.org/thermometers-insulin/
 * Insulin Pooling: https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
+  * Internet Archive link because the above has been broken: https://web.archive.org/web/20180312045049/https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
 * Walmart Insulin: http://www.bootcampforbetics.org/blog/when-you-cant-afford-the-insulin-you-need-in-order-to-survive
   - https://www.diabetesdaily.com/blog/you-can-get-cheap-insulin-at-walmart-without-an-rx-in-some-states-576008/
   - Availability by state: http://anabolicminds.com/forum/steroids/71960-complete-list-states.html

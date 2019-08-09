@@ -27,3 +27,4 @@ draft = true
   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878912/
 * Development of antibodies: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3161292/
 
+https://www.hopkinsmedicine.org/news/newsroom/news-releases/newly-discovered-immune-cell-linked-to-type-1-diabetes
