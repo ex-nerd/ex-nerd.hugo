@@ -1,11 +1,11 @@
-[About]
+[about]
 title = "About"
 identifier = "fa fa-user"
 description="""\
     All about me and this site.
     """
 
-[Tech]
+[tech]
 title = "Technology"
 identifier = "fa fa-power-off"
 description="""\
@@ -13,7 +13,7 @@ description="""\
     ramblings about things of a technical nature for beginners and experts alike.
     """
 
-[Food]
+[food]
 title = "Eat, Drink, Cook"
 identifier = "fa fa-cutlery"
 description="""\
@@ -21,7 +21,7 @@ description="""\
     I think is worth sharing, and it gets added here.
     """
 
-[Diabetes]
+[diabetes]
 title = "Diabetes"
 identifier = "fa fa-tint"
 description="""\
