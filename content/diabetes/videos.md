@@ -15,3 +15,5 @@ draft = true
 * TCOYD One 2018: https://tcoyd.org/one-2018/
 
 * Banting controversy: https://www.youtube.com/watch?v=kVG7xlY7xVg
+  * History: https://www.diapedia.org/introduction-to-diabetes-mellitus/1104085145/history-1900-to-1950
+  * The insulin patent: https://patents.google.com/patent/US1469994A/en

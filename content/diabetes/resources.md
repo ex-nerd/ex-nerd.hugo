@@ -67,8 +67,10 @@ especially helpful.
 * http://www.diabetesnet.com/about-diabetes/insulin/insulin-action-time
 * http://www.webmd.com/diabetes/guide/diabetes-types-insulin
 * Types of insulin (acting times): https://dtc.ucsf.edu/types-of-diabetes/type2/treatment-of-type-2-diabetes/medications-and-therapies/type-2-insulin-rx/types-of-insulin/
-* In the fridge: https://blog.medangel.co/insulin-pens-are-welcome-back-to-the-fridge-49d37511c88c
-* Temperature: https://beyondtype1.org/thermometers-insulin/
+* In the fridge: https://medangel.co/blog/insulin-pens-are-welcome-back-to-the-fridge-49d37511c88c/
+* Temperature:
+  * https://beyondtype1.org/thermometers-insulin/
+  * https://www.healthline.com/diabetesmine/tracking-insulins-health-in-the-summer-heat
 * Insulin Pooling: https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
   * Internet Archive link because the above has been broken: https://web.archive.org/web/20180312045049/https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
 * Walmart Insulin: http://www.bootcampforbetics.org/blog/when-you-cant-afford-the-insulin-you-need-in-order-to-survive
