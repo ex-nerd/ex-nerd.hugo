@@ -3,7 +3,6 @@ date = "2019-08-08T08:00:00-07:00"
 title = "Making a Trossingen Lyre"
 categories = ["Making"]
 tags = ["music", "woodworking", "making", "medieval", "viking"]
-draft = true
 
 # help: https://github.com/liwenyip/hugo-easy-gallery and https://www.liwen.id.au/heg/
 
