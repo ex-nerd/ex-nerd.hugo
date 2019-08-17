@@ -137,10 +137,14 @@ Currently working on this phase.  Details and more pics to come.
 
 ### Tuning Pegs
 
-Still haven't made these yet
+Still haven't made these yet.  This process is involved enough that it will probably get its own writeup.
 
 ### Bridge
 
 Still waiting on this, too
 
 ### Links and other reference materials
+
+* [David Friedman's instructions](http://www.daviddfriedman.com/Medieval/Articles/lyre/To%20Make%20a%20Lyre.htm) were instrumental in figuring things out.
+* [Michael J King](https://www.michaeljking.com/lyres.htm) is a luthier who also sells great tutorials for making your own instruments. He also runs [The Lyre](https://www.facebook.com/groups/189117621210658/) group on Facebook.
+* There are a lot of links that I haven't yet transcribed for this page.
