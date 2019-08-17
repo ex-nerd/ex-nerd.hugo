@@ -94,11 +94,11 @@ ignoreFiles = [ "\\.psd$" ]
     identifier = "fas fa-utensils"
     weight = 3
 
-# [[menu.main]]
-#     name = "Making"
-#     url = "/making"
-#     identifier = "fas fa-hammer"
-#     weight = 4
+[[menu.main]]
+    name = "Making"
+    url = "/making"
+    identifier = "fas fa-hammer"
+    weight = 4
 
 [[menu.main]]
     name = "Diabetes"
@@ -113,15 +113,9 @@ ignoreFiles = [ "\\.psd$" ]
     weight = 98
 
 # [[menu.main]]
-#     name = "Making"
-#     url = "/make"
-#     identifier = "fa fa-pencil"
-#     weight = 5
-
-# [[menu.main]]
 #     name = "Resume"
 #     url = "/resume"
-#     identifier = "fa fa-file-text"
+#     identifier = "fas fa-file-text"
 #     weight = 99
 
 # Insert your username and the icon will apear on the page as long as
