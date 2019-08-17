@@ -1,0 +1,1 @@
+../../hugo-easy-gallery/static/js/load-photoswipe.js
