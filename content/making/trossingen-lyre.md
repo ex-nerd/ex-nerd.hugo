@@ -133,15 +133,31 @@ Currently working on this phase.  Details and more pics to come.
   {{< figure link="/img/trossingen_lyre/13_coping_saw.jpg" thumb="-thumb" caption="Honestly, my least favorite tool to use. It causes hand cramps, *and* I'm terrible at it. Maybe some day I'll take the time to learn (or get a real fret saw instead of this mediocre coping saw). Until then, I'm thankful for my sander to help clean up all of those jagged edges." >}}
   {{< figure link="/img/trossingen_lyre/14_sanding.jpg" thumb="-thumb" caption="Cleaning up everything I couldn't get with the coping saw. After this, I need to start thinking seriously about how to make the tuning pegs." >}}
   {{< figure link="/img/trossingen_lyre/15_shaping.jpg" thumb="-thumb" caption="The basic shape is done. Now it just needs the soundboard to be thinned out and everything to be rounded over and smoothed with spokeshave, files, and sandpaper." >}}
+  {{< figure link="/img/trossingen_lyre/16_hand_shaping.jpg" thumb="-thumb" caption="There is a surprising amount of hand-finishing with rasps, files, spokeshave, and several different grits of sandpaper for when the wood grain wouldn't cooperate with the spokeshave or the card scraper." >}}
+{{< /gallery >}}
+
+### Finish
+
+Finishing the main lyre body is pretty straightforward.  I pondered using boiled linseed oil, but didn't have any on hand and happen to really like the look of shellac.
+
+I thinned the canned shellac 1:1 with denatured alcohol and wiped on two thin coats to get as much wood penetration as I could. After letting that dry for about 5 minutes, I wiped on a full-strength coat and let it dry
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/img/trossingen_lyre/17_before_finish.jpg" thumb="-thumb" caption="Finally done shaping and sanding, and now ready for a coat of shellac." >}}
+  {{< figure link="/img/trossingen_lyre/18_after_shellac.jpg" thumb="-thumb" caption="After two wiped-on coats of 1:1 thinned shellac, and another at full strength, this is pretty much done." >}}
 {{< /gallery >}}
 
 ### Tuning Pegs
 
-Still haven't made these yet.  This process is involved enough that it will probably get its own writeup.
+I've been working through how to make these, and have learned a lot (meaning, I've made a bunch of mistakes).  I'd like to document all of this (including my unorthodox tools), so this will get its own writeup.
 
 ### Bridge
 
-Still waiting on this, too
+Still waiting on this, too.  As with my prototype, I will get the main shape done with a spindle sander, and then finish it by hand.
+
+### The Final Product
+
+Definitely not here, yet.  Will get some good close-ups, though.
 
 ### Links and other reference materials
 
