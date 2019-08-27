@@ -125,7 +125,42 @@ walnut to brace it against.
 
 ### Final Shaping
 
-Currently working on this phase.  Details and more pics to come.
+The first step to the final shaping was to cut out the interior hole where the
+player's hand will go. I'm terrible with a coping saw, and this might be the
+thing that gets me to upgrade to a true fretsaw. Rather than accidentally cut
+too close to my line, I gave up on accuracy and just left myself a bunch of
+extra wood to remove with a spokeshave (when would fit) and spindle sander. I
+can definitely see how lyres made with the crossbar as a separate piece would be
+a lot easier to deal with, since it would allow a regular saw to get most of the
+way down both sides of the arms and produce a much straighter cut.
+
+This is also the step where I made my biggest mistake.  The Trossingen lyre has
+two dowel pins at the top and bottom of the soundbox, and I decided to use
+tapered maple pins (cast-offs from my tuning peg experiments) instead of dowels,
+which would have been from a different kind of wood.  While pounding in one of
+the pins, I hit it ever so slightly too hard and managed to leave a hairline
+split in the back of the soundbox.  Thankfully, it was easily fixed with a bit
+of glue and sawdust (and the glue holding in the pin itself should prevent
+further splitting), but it was a loud reminder how fragile some of this wood can
+be. It's also worth noting that the bottom pin on the actual lyre actually
+protrudes and sits proud of the soundboard by about 1cm -- I chose to cut both
+of my pins flush to the soundboard because I'm not actually sure how the
+protruding lower pin would be used.
+
+After sanding everything close to my marks, I moved on to hand shaping
+everything, which was probably the trickiest step after hollowing out the
+soundbox. Some of this was due to my lack of experience shaping things with
+rasps and files, as well as a bit of fighting with the grain in walnut
+soundboard, but mostly it was just that I couldn't get my tools where I wanted
+them to be.  My spokeshave is too big to get into the corners of the interior
+hole (makes me really curious about the Millers Falls "cigar" spokeshave), and
+my workbench just isn't set up right to hold the entire lyre in place to run a
+plane or spokeshave down the entire length of the instrument in order to
+start/finish a shave cleanly. In the end, I just took my time with this and
+switched between all of my tools as it felt appropriate. There was more than a
+little joy watching and feeling the shape of the instrument come together
+throughout this process and it was difficult to get myself to admit that it
+really was done enough to continue on to the next step.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure link="/img/trossingen_lyre/11_before_spokeshave.jpg" thumb="-thumb" caption="Just showing off the glued-up edge before cleaning it up." >}}
@@ -140,7 +175,9 @@ Currently working on this phase.  Details and more pics to come.
 
 Finishing the main lyre body is pretty straightforward.  I pondered using boiled linseed oil, but didn't have any on hand and happen to really like the look of shellac.
 
-I thinned the canned shellac 1:1 with denatured alcohol and wiped on two thin coats to get as much wood penetration as I could. After letting that dry for about 5 minutes, I wiped on a full-strength coat and let it dry
+I thinned the canned shellac 1:1 with denatured alcohol and wiped on two thin coats to get as much wood penetration as I could. After letting that dry for about 5 minutes, I wiped on a full-strength coat and let it dry.
+
+After another pass with 400 grit sandpaper (or maybe just some steel wool), I intend to apply one more coat of shellac, this time from a spray can.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure link="/img/trossingen_lyre/17_before_finish.jpg" thumb="-thumb" caption="Finally done shaping and sanding, and now ready for a coat of shellac." >}}
