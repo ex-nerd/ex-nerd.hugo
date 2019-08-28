@@ -173,11 +173,19 @@ really was done enough to continue on to the next step.
 
 ### Finish
 
-Finishing the main lyre body is pretty straightforward.  I pondered using boiled linseed oil, but didn't have any on hand and happen to really like the look of shellac.
+Finishing the main lyre body is pretty straightforward.  I pondered using boiled
+linseed oil, but didn't have any on hand and happen to really like the look of
+clear shellac.
 
-I thinned the canned shellac 1:1 with denatured alcohol and wiped on two thin coats to get as much wood penetration as I could. After letting that dry for about 5 minutes, I wiped on a full-strength coat and let it dry.
+I thinned the canned shellac 1:1 with denatured alcohol and wiped on two thin
+coats to get as much wood penetration as I could. After letting that dry for
+about 5 minutes, I wiped on a full-strength coat and let it dry.
 
-After another pass with 400 grit sandpaper (or maybe just some steel wool), I intend to apply one more coat of shellac, this time from a spray can.
+I let this dry overnight and then went over the whole thing again with 400 grit
+sandpaper (I was planning to use steel wool, but I couldn't find any), wiped the
+dust off with a dry cloth, and then added 2 more coats of shellac, this time
+from a spray can. The final result is a perfectly smooth finish that really
+shows off the character of the wood.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure link="/img/trossingen_lyre/17_before_finish.jpg" thumb="-thumb" caption="Finally done shaping and sanding, and now ready for a coat of shellac." >}}
@@ -186,11 +194,27 @@ After another pass with 400 grit sandpaper (or maybe just some steel wool), I in
 
 ### Tuning Pegs
 
-I've been working through how to make these, and have learned a lot (meaning, I've made a bunch of mistakes).  I'd like to document all of this (including my unorthodox tools), so this will get its own writeup.
+I've been working through how to make these, and have learned a lot (meaning,
+I've made a bunch of mistakes).  I'd like to document all of this (including my
+unorthodox tools), so this will get its own writeup.
 
-### Bridge
+### Tailpiece and Bridge
 
-Still waiting on this, too.  As with my prototype, I will get the main shape done with a spindle sander, and then finish it by hand.
+I'm sticking with the "inverted" theme and chose to make the tailpiece and
+bridge out of hard maple so its lighter color will contrast with the rest of the
+instrument. While a number of people use a simple dowel for the tailpiece, I
+decided to try out a slightly more complex shape. It will be attached with some
+goatskin rawhide lace, which was soaked in water, twisted, and then tied off to
+dry with just a bit of tension to keep it in place. We'll see how it holds up.
+
+Still haven't started on the bridge.  As with my prototype, I will do the main
+shaping with a spindle sander, and then finish it by hand with files and
+sandpaper.
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/img/trossingen_lyre/20_tailpiece.jpg" thumb="-thumb" caption="A simple maple tailpiece, shaped with files and sandpaper." >}}
+{{< /gallery >}}
+
 
 ### The Final Product
 
