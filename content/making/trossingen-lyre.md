@@ -196,7 +196,7 @@ shows off the character of the wood.
 
 I've been working through how to make these, and have learned a lot (meaning,
 I've made a bunch of mistakes).  I'd like to document all of this (including my
-unorthodox tools), so this will get its own writeup.
+failures and unorthodox tools), so this will get its own writeup.
 
 ### Bridge
 
@@ -235,14 +235,15 @@ don't put it on backwards.
 I'm sticking with the "inverted" theme and chose to make the tailpiece and
 bridge out of hard maple so its lighter color will contrast with the rest of the
 instrument. While a number of people use a simple dowel for the tailpiece, I
-decided to try out a slightly more complex shape. It is attached with some
-goatskin rawhide lace, which was soaked in water, twisted, and then tied off to
-dry with just a bit of tension to keep it in place. I started with 4 strands per
-twise but that one broke so I re-made everything with 8 strands and so far it's
-holding up well. I also re-designed my tailpiece slightly to better accommodate
-the thicker tailgut lace.
+decided to try out a slightly more complex shape.
 
-
+It is attached with some goatskin rawhide lace, which was soaked in water,
+twisted and folded back to allow it to twise back upon itself, and then tied off
+to dry with just a bit of tension to keep it in place (with a dot of super glue
+on the knots once they were dry). I started with 4 strands per twist but that
+one broke so I re-made everything with 8 strands and so far it's holding up well
+(it's about 56" or 142cm worth of). I also re-designed my tailpiece slightly to
+better accommodate the thicker tailgut lace.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure link="/img/trossingen_lyre/25_tailpiece.jpg" thumb="-thumb" caption="A simple maple tailpiece, shaped with files and sandpaper." >}}
@@ -251,7 +252,9 @@ the thicker tailgut lace.
 
 ### The Final Product
 
-Definitely not here, yet.  Will get some good close-ups, though.
+I'm mostly done but have been too busy playing to take this outside and get some
+shots of the finished instrument with a real camera (unlike all of these other
+photos, which were just taken with my phone).
 
 ### Links and other reference materials
 
