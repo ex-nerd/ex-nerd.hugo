@@ -71,8 +71,8 @@ especially helpful.
 * Temperature:
   * https://beyondtype1.org/thermometers-insulin/
   * https://www.healthline.com/diabetesmine/tracking-insulins-health-in-the-summer-heat
-* Insulin Pooling: https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
-  * Internet Archive link because the above has been broken: https://web.archive.org/web/20180312045049/https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
+* Insulin Pooling: https<span>://</span>www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/
+  * [Read it at the Internet Archive because the above has been broken](https://web.archive.org/web/20180312045049/https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/)
 * Walmart Insulin: http://www.bootcampforbetics.org/blog/when-you-cant-afford-the-insulin-you-need-in-order-to-survive
   - https://www.diabetesdaily.com/blog/you-can-get-cheap-insulin-at-walmart-without-an-rx-in-some-states-576008/
   - Availability by state: http://anabolicminds.com/forum/steroids/71960-complete-list-states.html
@@ -106,8 +106,13 @@ especially helpful.
 ### Disability? Diabetes is a protected class under the law: {#disability}
 * https://community.beyondtype1.org/posts/1188054
 * https://www.eeoc.gov/laws/types/diabetes.cfm
-* http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/is-diabetes-a-disability.html
-* http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/employment-materials/proving-diabetes-is-a-disability.html
+* https://www.diabetes.org/resources/know-your-rights
+  * https://www.diabetes.org/resources/know-your-rights/discrimination/employment-discrimination
+  * Older links are broken be out of date because of a website redesign but available at the Internet Archive.
+  * http<span>://</span>www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/is-diabetes-a-disability.html
+    * [Read it at the Internet Archive because the above is gone](https://web.archive.org/web/20181109074304/http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/is-diabetes-a-disability.html)
+  * http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/employment-materials/proving-diabetes-is-a-disability.html
+    * [Read it at the Internet Archive because the above has been broken](https://web.archive.org/web/20181111001853/http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/employment-materials/proving-diabetes-is-a-disability.html)
 * http://insulinnation.com/research/diabetes-as-a-disability-in-the-workplace/
 
 ### Treating low blood sugar
@@ -137,7 +142,7 @@ Prices may have changed since this list was created
 * TCOYD, Alcohol and Diabetes: https://www.youtube.com/watch?v=GRvjBrFvnSk
 
 ### Driver's License {#driving}
-* http://www.diabetes.org/living-with-diabetes/know-your-rights/discrimination/drivers-licenses/drivers-license-laws-by-state.html
+* https://www.diabetes.org/resources/know-your-rights/drivers-licenses-laws
 
 ### The Name "Diabetes"
 * http://www.healthline.com/diabetesmine/the-kerfuffle-over-new-names-for-type-1-and-type-2-diabetes

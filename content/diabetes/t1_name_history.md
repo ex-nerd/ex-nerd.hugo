@@ -15,6 +15,10 @@ The name "Diabetes Mellitus" dates back roughly 500 years, and awarness of the d
 
 Until I finish this section, you can [read more about Diabetes Mellitus at Wikipedia](https://en.wikipedia.org/wiki/Diabetes_mellitus).
 
+### Severe and Mild Diabetes
+
+TBD.
+
 ### Juvenile and Adult Diabetes
 
 TBD.
@@ -56,6 +60,8 @@ In 1995, the US caught up with the rest of the world (_Note: I'm still looking f
 TBD.
 
 * The current state of naming confusion and continued (mis?) use of T1.5 and LADA
+  * June 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/
+  * Dec 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6300440/
 * Genetic research showing possible differences between rapid- and slow-onset T1
 * Any other ideas?
 
