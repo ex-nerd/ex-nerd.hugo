@@ -44,8 +44,8 @@ tutorials for using the app).
 
 * 6mm MDF for the cutting template
 * 4/4 or 5/4 carbonized maple ([Cambia](https://cambiawood.com//about-our-wood/thermally-modified-wood) makes this by basically cooking the wood until it turns this amazing dark color and gains some more dimensional stability)
-* 1/8" walnut from my lumber yard's scrap pile
-* 1/8" spalted maple from a local tree
+* 1/4" walnut from my lumber yard's scrap pile
+* 1/4" spalted maple from a local tree
 * 3/4 hard maple for the bridge, tuning pegs, and a couple of pins in the lyre body
 * Fluorocarbon lyre strings from [Michael J King](https://www.michaeljking.com/lyre_shop.htm)
 
@@ -198,23 +198,56 @@ I've been working through how to make these, and have learned a lot (meaning,
 I've made a bunch of mistakes).  I'd like to document all of this (including my
 unorthodox tools), so this will get its own writeup.
 
-### Tailpiece and Bridge
+### Bridge
+
+The bridge is one of the most important pieces of the instrument for carrying
+sound. If it is not made well, or does not seat properly, the lyre will not
+sound nearly as good as it should.
+
+To make the bridge, I start with a hand-drawn sketch of the pattern on a chunk
+of maple, and rough it out on the bandsaw. Next, I sand everything down to my
+lines with a spindle sander, followed by some freehand shaping. After that, I do
+the the rest of the work with a set of good files. I have acquired better files
+since I made this first bridge, and since I made a few mistakes and plan to
+re-make the bridge and post updated photos when I do.  Specifically, there is
+too much contact between the strings and the bridge and I think I can get better
+sound transmission if I fix this.
+
+Finally, you have to fit the bridge to the body of the lyre. My photo shows only
+half of the process; done properly, the sandpaper goes beneath both feet of the
+bridge as you rub the bridge against it in very small strokes until it contacts
+the body of the lyre as completely as possible.  You can check this putting a
+few pencil lines on the bottom fo the bridge before you start sanding. I'll
+update this and provide some photos when I make the next bridge. Once your
+bridge is done, write the orientation on the bottom (e.g. _pegs &rarr;_) so you
+don't put it on backwards.
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure link="/img/trossingen_lyre/20_bridge_sketch.jpg" thumb="-thumb" caption="I used a square to get straight and centered lines where I need them, and some random round objects for the curves." >}}
+  {{< figure link="/img/trossingen_lyre/21_bridge_rough_cut.jpg" thumb="-thumb" caption="I rough cut out the bridge shape on the bandsaw." >}}
+  {{< figure link="/img/trossingen_lyre/22_sanding_the_bridge.jpg" thumb="-thumb" caption="A spindle sander makes short work of a lot of the curves on the bridge." >}}
+  {{< figure link="/img/trossingen_lyre/23_filing_the_bridge.jpg" thumb="-thumb" caption="Finishing the bridge seems to go best with a file." >}}
+  {{< figure link="/img/trossingen_lyre/24_fitting_the_bridge.jpg" thumb="-thumb" caption="A 'cross section' view of sanding the bottom of the bridge to fit." >}}
+{{< /gallery >}}
+
+### Tailpiece
 
 I'm sticking with the "inverted" theme and chose to make the tailpiece and
 bridge out of hard maple so its lighter color will contrast with the rest of the
 instrument. While a number of people use a simple dowel for the tailpiece, I
-decided to try out a slightly more complex shape. It will be attached with some
+decided to try out a slightly more complex shape. It is attached with some
 goatskin rawhide lace, which was soaked in water, twisted, and then tied off to
-dry with just a bit of tension to keep it in place. We'll see how it holds up.
+dry with just a bit of tension to keep it in place. I started with 4 strands per
+twise but that one broke so I re-made everything with 8 strands and so far it's
+holding up well. I also re-designed my tailpiece slightly to better accommodate
+the thicker tailgut lace.
 
-Still haven't started on the bridge.  As with my prototype, I will do the main
-shaping with a spindle sander, and then finish it by hand with files and
-sandpaper.
+
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/img/trossingen_lyre/20_tailpiece.jpg" thumb="-thumb" caption="A simple maple tailpiece, shaped with files and sandpaper." >}}
+  {{< figure link="/img/trossingen_lyre/25_tailpiece.jpg" thumb="-thumb" caption="A simple maple tailpiece, shaped with files and sandpaper." >}}
+  {{< figure link="/img/trossingen_lyre/26_bridge_and_thin_tailgut.jpg" thumb="-thumb" caption="A view of the bridge with my (too thin) first try at the tailgut." >}}
 {{< /gallery >}}
-
 
 ### The Final Product
 
