@@ -1,5 +1,5 @@
 +++
-date = "2019-01-07T08:00:00-07:00"
+date = "2019-09-28T08:00:00-07:00"
 title = "Type 1 Diabetes Name History"
 categories = ["Diabetes"]
 tags = ["health", "diabetes"]
@@ -15,27 +15,37 @@ The name "Diabetes Mellitus" dates back roughly 500 years, and awarness of the d
 
 Until I finish this section, you can [read more about Diabetes Mellitus at Wikipedia](https://en.wikipedia.org/wiki/Diabetes_mellitus).
 
+Diapedia also has an [extensive writeup about the history of Diabetes Mellitus](https://www.diapedia.org/introduction-to-diabetes-mellitus/1104085121/diabetes-past-and-present), which includes the evolution of naming conventions.
+
 ### Severe and Mild Diabetes
 
-TBD.
+In the early years of modern understanding of diabetes, there was recognition that it occurred in "mild" and "severe" forms.
+I'm still looking for details about how prevelant these terms were in clinical terminology. So far, my best source is the
+rather short section from the [Diapedia entry on the history from 1900 to 1950](https://www.diapedia.org/introduction-to-diabetes-mellitus/1104085145/history-1900-to-1950),
+so please let me know more about the early days of classification.
 
 ### Juvenile and Adult Diabetes
 
-TBD.
+Leading up to the 1970s, it was known that both children and adults could be diagnosed with severe diabetes, and though
+mild diabetes was more common, adults were still the larger group of new diagnoses of severe diabetes. However, throughout
+the decade of the 1970s, this perception changed so much that severe diabetes began to be referred to a "juvenile diabetes".
+My friend Melitta has done extensive research into this transition, and has published some of her findings in this
+[article about historical references to adult-onset type 1 diabetes](http://adultt1diabetes.blogspot.com/2019/01/historical-references-to-adult-onset.html),
+which includes some ideas about how they basically to disappeared in the 1970s.
 
-### Type 1 Diabetes
+### Type 1 Diabetes (original proposal)
 
-Though not officially approved for use until 1995 (more on that further down in the timeline), "Type 1 Diabetes" dates back to John Lister from 1951.
+Though not officially approved standardized until 1995 (more on that further down in the timeline), "Type 1 Diabetes" dates back to John Lister from 1951.
 
 I'll eventually fill in this section, but for now you can read more about the early days of the Type 1 name on Diapedia:
 
 * John Lister: https://www.diapedia.org/type-1-diabetes-mellitus/2104085134/historical-aspects-of-type-1-diabetes
 * Andrew Cudworth, the man who popularized Lister's proposed names: https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cudworth
 
-
 ### Insulin Dependent Diabetes
 
-TBD
+In 1979, what was now know as Type 1 Diabetes was [classified as Insulin Dependent Diabetes](http://diabetes.diabetesjournals.org/content/28/12/1039).
+This was partly in recognition that onset of the disease was not limited to children, and that those children eventually grew up to become adults.
 
 ### Type 1.5
 
@@ -55,7 +65,7 @@ _Note: Yes, I plan to add more details in this section..._
 
 In 1995, the US caught up with the rest of the world (_Note: I'm still looking for references about the worldwide adoption of Type 1_) and consolidated all autoimmune diabetes under the "Type 1" name, relegating both "Type 1.5" and "LADA" as unofficial terms that people still want to use as a way to differentiate between childhood-onset and adult-onset T1, or rapid-onset (most commonly diagnosed in children) and slow-onset (most commonly diagnosed in adults).  Unfortunately, it's often difficult to figure out which they mean because some young people develop slow-onset T1, and some adults develop rapid-onset T1.
 
-### Whats next?
+### What's next?
 
 TBD.
 
@@ -68,20 +78,21 @@ TBD.
 For now, check out this article from 2003:
 
 "What’s in a Name: Latent autoimmune diabetes of adults, type 1.5, adult-onset, and type 1 diabetes" in Diabetes Care 2003 Feb; 26(2): 536-538
-- http://care.diabetesjournals.org/content/26/2/536.long
+
+* http://care.diabetesjournals.org/content/26/2/536.long
 
 ---
 
 <!-- pity hugo won't process this:  div markdown="1" style="font-size: 80%" -->
 
-- <a name="1"></a>\[1] "Type 1 1/2" in Editorial: Insulin-dependent? Lancet 2:809-10, 1985
-  - http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9
-  - The full text of this article is not available online for free but can be obtained through educational institutions with the appropriate library subscriptions.
-- <a name="2"></a>\[2] "Classification of Newly Diagnosed Diabetic Patients as Insulin-Requiring or Non--Insulin-Requiring Based on Clinical and Biochemical Variables" in Diabetes Care 11(7):531-7 · July 1988
-  - Paywalled here: http://care.diabetesjournals.org/content/11/7/531.short
-  - Read it here: https://www.researchgate.net/publication/19951866_Classification_of_Newly_Diagnosed_Diabetic_Patients_as_Insulin-Requiring_or_Non--Insulin-Requiring_Based_on_Clinical_and_Biochemical_Variables)
-- <a name="3"></a>\[3] {#3} "Antibodies to Glutamic Acid Decarboxylase Reveal Latent Autoimmune Diabetes Mellitus in Adults With a Non—Insulin-Dependent Onset of Disease" in Diabetes 1993 Feb; 42(2): 359-362.
-  - https://www.ncbi.nlm.nih.gov/pubmed/8425674
-  - http://diabetes.diabetesjournals.org/content/42/2/359.long
+* <a name="1"></a>\[1] "Type 1 1/2" in Editorial: Insulin-dependent? Lancet 2:809-10, 1985
+  * http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9
+  * The full text of this article is not available online for free but can be obtained through educational institutions with the appropriate library subscriptions.
+* <a name="2"></a>\[2] "Classification of Newly Diagnosed Diabetic Patients as Insulin-Requiring or Non--Insulin-Requiring Based on Clinical and Biochemical Variables" in Diabetes Care 11(7):531-7 · July 1988
+  * Paywalled here: http://care.diabetesjournals.org/content/11/7/531.short
+  * Read it here: https://www.researchgate.net/publication/19951866_Classification_of_Newly_Diagnosed_Diabetic_Patients_as_Insulin-Requiring_or_Non--Insulin-Requiring_Based_on_Clinical_and_Biochemical_Variables)
+* <a name="3"></a>\[3] {#3} "Antibodies to Glutamic Acid Decarboxylase Reveal Latent Autoimmune Diabetes Mellitus in Adults With a Non—Insulin-Dependent Onset of Disease" in Diabetes 1993 Feb; 42(2): 359-362.
+  * https://www.ncbi.nlm.nih.gov/pubmed/8425674
+  * http://diabetes.diabetesjournals.org/content/42/2/359.long
 
 <!-- /div -->

@@ -75,7 +75,6 @@ especially helpful.
   * [Read it at the Internet Archive because the above has been broken](https://web.archive.org/web/20180312045049/https://www.diabeteshealth.com/why-smaller-shots-of-insulin-get-absorbed-faster-peak-sooner-and-are-out-of-your-system-quicker/)
 * Walmart Insulin: http://www.bootcampforbetics.org/blog/when-you-cant-afford-the-insulin-you-need-in-order-to-survive
   - https://www.diabetesdaily.com/blog/you-can-get-cheap-insulin-at-walmart-without-an-rx-in-some-states-576008/
-  - Availability by state: http://anabolicminds.com/forum/steroids/71960-complete-list-states.html
 
 ### Amylin (another thing people with T1DM don't make):
 * https://www.diabetesselfmanagement.com/managing-diabetes/treatment-approaches/amylin/
@@ -134,12 +133,12 @@ Prices may have changed since this list was created
 * Insulin pumps affected by altitude: http://care.diabetesjournals.org/content/34/9/1932
 
 ### Drinking Alcohol {#alcohol}
+* Great talk from TCOYD about Alcohol and Diabetes: https://www.youtube.com/watch?v=GRvjBrFvnSk
 * https://mysugr.com/diabetes-and-alcohol/
 * https://dtc.ucsf.edu/living-with-diabetes/diet-and-nutrition/diabetes-alcohol/
   * Details: https://diabetes.ucsf.edu/sites/diabetes.ucsf.edu/files/PEDS%20Alcohol%20and%20Diabetes.pdf
 * https://www.thediabetescouncil.com/effects-of-alcohol-on-diabetes/
 * https://pubs.niaaa.nih.gov/publications/arh22-3/211.pdf
-* TCOYD, Alcohol and Diabetes: https://www.youtube.com/watch?v=GRvjBrFvnSk
 
 ### Driver's License {#driving}
 * https://www.diabetes.org/resources/know-your-rights/drivers-licenses-laws
