@@ -28,6 +28,9 @@ Potential spliting of T1 and T2 into 5 distinct groups: https://www.medscape.com
 * search for official T1 naming reference shows June 1997: https://www.aafp.org/afp/1998/1015/p1355.html and full text behind paywall: http://care.diabetesjournals.org/content/20/7/1183
 * 1979 classification: http://diabetes.diabetesjournals.org/content/28/12/1039
 
+Leon's type chart: https://practicaldiabetic.com/2019/07/05/what-is-your-diabetes-type/
+
+
 Types:
 
   * Type 1B (idiopathic)
