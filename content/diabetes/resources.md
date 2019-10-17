@@ -81,6 +81,7 @@ especially helpful.
 * http://integrateddiabetes.com/which-tide-to-ride/
 
 ### Carbs {#carbs}
+* https://insulinnation.com/living/dietary-fiber-why-it-does-doesnt-affect-your-blood-sugar/
 * https://www.diabetesselfmanagement.com/nutrition-exercise/meal-planning/counting-carbohydrates-like-a-pro/
 * https://www.diabetesselfmanagement.com/blog/how-do-you-do-fiber/
 * https://dtc.ucsf.edu/types-of-diabetes/type1/treatment-of-type-1-diabetes/medications-and-therapies/type-1-insulin-therapy/calculating-insulin-dose/
