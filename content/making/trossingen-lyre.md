@@ -126,12 +126,13 @@ walnut to brace it against.
 ### Final Shaping
 
 The first step to the final shaping was to cut out the interior hole where the
-player's hand will go. I'm terrible with a coping saw, and this might be the
-thing that gets me to upgrade to a true fretsaw. Rather than accidentally cut
-too close to my line, I gave up on accuracy and just left myself a bunch of
-extra wood to remove with a spokeshave (when would fit) and spindle sander. I
-can definitely see how lyres made with the crossbar as a separate piece would be
-a lot easier to deal with, since it would allow a regular saw to get most of the
+player's hand will go. I'm terrible with a [coping
+saw](https://www.youtube.com/watch?v=JX8YncGsshU), and this might be the thing
+that gets me to upgrade to a true fretsaw. Rather than accidentally cut too
+close to my line, I gave up on accuracy and just left myself a bunch of extra
+wood to remove with a spokeshave (when would fit) and spindle sander. I can
+definitely see how lyres made with the crossbar as a separate piece would be a
+lot easier to deal with, since it would allow a regular saw to get most of the
 way down both sides of the arms and produce a much straighter cut.
 
 This is also the step where I made my biggest mistake.  The Trossingen lyre has
