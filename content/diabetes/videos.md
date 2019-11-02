@@ -15,5 +15,7 @@ draft = true
 * TCOYD One 2018: https://tcoyd.org/one-2018/
 
 * Banting controversy: https://www.youtube.com/watch?v=kVG7xlY7xVg
+Yup. Except that this "new purified extract" was actually the formulation from James Collip because Frederick Banting's version tested the day before didn't actually work (well, several weeks before, actually -- they tested it on a single patient first, and it wasn't until he recovered that they administered it to a large number of children). Banting and Best get all of the glory, but they (certainly not Banting) would likely never have arrived at a functioning stable extract without Collip -- please don't forget the man who made it possible
+
   * History: https://www.diapedia.org/introduction-to-diabetes-mellitus/1104085145/history-1900-to-1950
   * The insulin patent: https://patents.google.com/patent/US1469994A/en
