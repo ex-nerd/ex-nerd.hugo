@@ -45,7 +45,7 @@ especially helpful.
 * https://www.clarahealth.com/
 
 ### Diagnosing Diabetes: {#diagnosing}
-* 2018 diagnostic recommendations: http://care.diabetesjournals.org/content/41/Supplement_1/S13
+* 2019 diagnostic/classification recommendations: http://care.diabetesjournals.org/content/42/Supplement_1/S13
 * http://www.diabetesincontrol.com/adajdrf-type-1-diabetes-sourcebook-excerpt-1-diagnosing-diabetes/
 * http://www.diabetesforecast.org/2015/sep-oct/tests-to-determine-diabetes.html
 * Antibodies: https://myglu.org/articles/t1d-and-autoantibodies-here-s-what-you-need-to-know
