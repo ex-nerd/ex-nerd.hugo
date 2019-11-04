@@ -27,21 +27,22 @@ While it is possible to _biologically_ have more than one of the conditions
 described below, the [current _medical_ classification
 system](http://care.diabetesjournals.org/content/42/Supplement_1/S13) and icd10
 coding for diabetes mellitus only allows for recognition that a patient has one
-kind of diabetes.
+kind of diabetes. The type of diabetes a person has is determined based on the
+"root cause" that triggered it, rather than the symptoms (similarly to how we
+differentiate between viral and bacterial pneumonia).
 
 ## Type 1
 
 > Your washer fluid (something designed to make your car easier/safer to drive)
-> is leaking onto the gas tank and causing it to rust and develop holes. It
-> might take weeks or months, but you eventually won't be able to put anymore
-> gas into your car unless you find a way to bypass the tank and get fuel into
-> the lines through some other means (maybe a small tank that sits next to you
-> on the passenger seat, with a hand pump you can squeeze to get fuel into the
-> engine).
+> is leaking onto the gas tank and causing it to rust and leak. It might take
+> weeks or months, but you eventually won't be able to put anymore gas into your
+> car unless you find a way to bypass the tank and get fuel into the lines
+> through some other means (maybe a small tank that sits next to you on the
+> passenger seat, with a hand pump you can squeeze to get fuel into the engine).
 >
-> For half of you, the mechanic thinks you're driving an SUV (even you aren't),
-> doesn't bother to look at your gas tank, and just tells you to start adding
-> fuel efficiency additives.
+> For half of you, the mechanic thinks you're driving an SUV (even if you
+> aren't), doesn't bother to look at your gas tank, and just tells you to start
+> adding fuel efficiency additives.
 
 [Type 1 diabetes](https://en.wikipedia.org/wiki/Type_1_diabetes) is an
 autoimmune disease, caused when the body's own immune system destroys the cells
@@ -57,8 +58,8 @@ misdiagnosed as Type 2.
 
 ## Type 1b (idiopathic)
 
-> Your gas tank is rusting and quickly developing holes, but the mechanic hasn't
-> figured out why it's happening.
+> Your gas tank is rusting and quickly starting to leak, but the mechanic hasn't
+> been able to figure out why it's happening.
 
 The term
 [idiopathic diabetes](https://www.healthcentral.com/article/idiopathic-diabetes)
@@ -105,6 +106,7 @@ Type 1, Type 3c, or MODY.
 ## Type 3c
 
 > You got rear-ended and your gas tank was damaged so it no longer holds fuel.
+> You might not even have a gas tank anymore.
 >
 > It's like Type 1, but you also have to deal with all of the other problems
 > caused by the collision.
@@ -197,7 +199,9 @@ that should be diagnosed as Type 1.
 
 ---
 
-The following terms are also used to describe diabetes mellitus, but for one reason or another they
+The following terms are also used to describe diabetes mellitus, but for various
+reasons they are not officially recognized by the group of experts who have been
+put in charge of making those decisions.
 
 ## Type 3
 
@@ -215,7 +219,7 @@ Despite the similarity in their names, Type 3 has nothing to do with Type 3c.
 
 ## LADA (Latent Autoimmune Diabetes in Adults)
 
-> You have Type 1 but the holes in your gas tank develop slowly. Most of you are
+> You have Type 1 but the leak in your gas tank develops slowly. Most of you are
 > driving older cars.
 
 [LADA](https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_in_adults) is an
@@ -233,7 +237,7 @@ own official type, but until then
 ## Double Diabetes
 
 > You're driving a gas-guzzling SUV while your washer fluid tank is also leaking
-> and causing your gas tank to rust and develop holes.
+> and causing your gas tank to rust and leak.
 
 This unofficial term is used by some people to describe simultaneously having
 autoimmune diabetes (Type 1) and severe insulin resistance (which might
@@ -248,16 +252,17 @@ accurately describe the underlying medical conditions.
 
 ## Type 1.5
 
-> You have Type 1 but the holes in your gas tank develop slowly. Most of you are
+> You have Type 1 but the leak in your gas tank develops slowly. Most of you are
 > driving older cars.
-
-**_Or_**
-
+>
+> **_Or_**
+>
 > You're driving a gas-guzzling SUV while your washer fluid tank is also leaking
-> and causing your gas tank to rust and develop holes.
+> and causing your gas tank to rust and leak.
 
-Type 1.5 was coined about 8 years before the LADA term was proposed, and
-essentially describes the same condition in less detail.
+Type 1.5 was [coined in 1985](http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9),
+about 8 years before the LADA term was proposed, and essentially describes the
+same condition in less detail.
 
 Somehow over the years, the term has also started being used to describe a
 completely separate condition: Type 1 with severe insulin resistance.
