@@ -45,7 +45,7 @@ especially helpful.
 * https://www.clarahealth.com/
 
 ### Diagnosing Diabetes: {#diagnosing}
-* 2019 diagnostic/classification recommendations: http://care.diabetesjournals.org/content/42/Supplement_1/S13
+* 2020 diagnostic/classification recommendations: https://care.diabetesjournals.org/content/43/Supplement_1/S14
 * http://www.diabetesincontrol.com/adajdrf-type-1-diabetes-sourcebook-excerpt-1-diagnosing-diabetes/
 * http://www.diabetesforecast.org/2015/sep-oct/tests-to-determine-diabetes.html
 * Antibodies: https://myglu.org/articles/t1d-and-autoantibodies-here-s-what-you-need-to-know
@@ -150,6 +150,7 @@ Prices may have changed since this list was created
 
 ### Medical ID On Your Phone {#medical-id}
 * iOS: https://support.apple.com/en-us/HT207021
+* Android: https://support.google.com/android/answer/9319337?hl=en
 * Both: http://ktla.com/2017/03/10/how-to-put-emergency-contact-info-on-your-phones-lock-screen/
 * Android (older): https://www.pcmag.com/article2/0,2817,2489237,00.asp
 
