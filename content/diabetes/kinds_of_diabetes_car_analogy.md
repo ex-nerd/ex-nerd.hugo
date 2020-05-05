@@ -233,7 +233,8 @@ seen in adults.
 There are a number of recognized problems with the current criteria used to
 describe LADA, so doctors are currently [working to define](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/)
 what is different between LADA and "regular" Type 1.
-[SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) is an unofficial term
+[SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) or "Slowly Progressive
+Type 1 Diabetes Mellitus" is an unofficial term
 [classified in 2015](https://link.springer.com/article/10.1007/s13340-014-0199-2)
 as one possible answer to the problematic criteria. One or both of these terms
 may some day become its own official type, but until then it's just "medical
