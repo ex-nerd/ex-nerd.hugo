@@ -115,7 +115,7 @@ actually have Type 1, Type 3c, or MODY.
 > Almost all of you are told to just start putting efficiency additives and
 > better fuel into your gas tank.
 
-[Type 3c diabetes](https://en.wikipedia.org/wiki/Type_3c_(Pancreatogenic)_Diabetes)
+[Type 3c diabetes](<https://en.wikipedia.org/wiki/Type_3c_(Pancreatogenic)_Diabetes>)
 is caused when the insulin-producing cells in the pancreas are damaged by
 another disease like pancreatitis or [cystic fibrosis](https://www.cff.org/Life-With-CF/Daily-Life/Cystic-Fibrosis-Related-Diabetes/).
 It used to be considered secondary diabetes, but is so prevalent it now has its
@@ -163,10 +163,10 @@ actually have some form of MODY.
 > the problems will go away over the next few years.
 
 [Neonatal diabetes](https://en.wikipedia.org/wiki/Neonatal_diabetes_mellitus)
- is similar to MODY in that it is caused by a single gene, but is exclusively
- diagnosed in infants (usually under 6 months of age). It is almost always
- permanent but similar to some forms of MODY, can be effectively treated with
- certain oral medications.
+is similar to MODY in that it is caused by a single gene, but is exclusively
+diagnosed in infants (usually under 6 months of age). It is almost always
+permanent but similar to some forms of MODY, can be effectively treated with
+certain oral medications.
 
 ## Mitochondrial diabetes
 
@@ -226,20 +226,19 @@ Despite the similarity in their names, Type 3 has nothing to do with Type 3c.
 [LADA](https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_in_adults) is an
 unofficial term [proposed in 1993](https://www.ncbi.nlm.nih.gov/pubmed/8425674)
 that pre-dates the official classification that all autoimmune diabetes mellitus
-is Type 1 (1995).  It is currently used to differentiate the rapid-onset form of
+is Type 1 (1995). It is currently used to differentiate the rapid-onset form of
 the disease most often seen in young people from the slow-onset form most often
 seen in adults.
 
 There are a number of recognized problems with the current criteria used to
 describe LADA, so doctors are currently [working to define](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/)
-what is different between LADA and "regular" Type 1. It may some day become its
-own official type, but until then it's just "medical slang" because people feel
-the need to differentiate between those who get Type 1 in childhood or as an
-adult.
-
-## SPIDDM (Slowly Progressive Insulin-dependent Diabetes Mellitus)
-
-[SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) is an unofficial term [classified in 2015](https://link.springer.com/article/10.1007/s13340-014-0199-2)
+what is different between LADA and "regular" Type 1.
+[SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) is an unofficial term
+[classified in 2015](https://link.springer.com/article/10.1007/s13340-014-0199-2)
+as one possible answer to the problematic criteria. One or both of these terms
+may some day become its own official type, but until then it's just "medical
+slang" because people feel the need to differentiate between those who get Type
+1 in childhood or as an adult.
 
 ## Double Diabetes
 
@@ -267,7 +266,7 @@ accurately describe the underlying medical conditions.
 > You're driving a gas-guzzling SUV while your washer fluid tank is also leaking
 > and causing your gas tank to rust and leak.
 
-Type 1.5 was [coined in 1985](http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9)
+Type 1.5 was [coined in 1985](<http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9>)
 to describe "a condition in which insulin sustains not life itself but the
 quality of life". About 8 years later, researchers proposed the term
 [LADA](lada-latent-autoimmune-diabetes-in-adults) to essentially describe the
