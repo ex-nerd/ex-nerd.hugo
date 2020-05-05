@@ -54,6 +54,7 @@ especially helpful.
 
 ### Genetics
 * http://www.joslin.org/info/genetics_and_diabetes.html
+  * Gone now.  See internet archive: https://web.archive.org/web/20190605070010/https://www.joslin.org/info/genetics_and_diabetes.html
 * http://www.diabetes.org/diabetes-basics/genetics-of-diabetes.html
   * https://www.ncbi.nlm.nih.gov/books/NBK1667/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034897/
@@ -77,6 +78,7 @@ especially helpful.
   - https://www.diabetesdaily.com/blog/you-can-get-cheap-insulin-at-walmart-without-an-rx-in-some-states-576008/
 
 ### Amylin (another thing people with T1DM don't make):
+* https://insulinnation.com/treatment/amylin-the-other-hormone-affected-by-type-1-diabetes/
 * https://www.diabetesselfmanagement.com/managing-diabetes/treatment-approaches/amylin/
 * http://integrateddiabetes.com/which-tide-to-ride/
 
@@ -114,6 +116,11 @@ especially helpful.
   * http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/employment-materials/proving-diabetes-is-a-disability.html
     * [Read it at the Internet Archive because the above has been broken](https://web.archive.org/web/20181111001853/http://www.diabetes.org/living-with-diabetes/know-your-rights/for-lawyers/employment-materials/proving-diabetes-is-a-disability.html)
 * http://insulinnation.com/research/diabetes-as-a-disability-in-the-workplace/
+
+### Buying Insulin in Canada or Mexico
+* https://myglu.org/articles/buying-insulin-from-abroad-is-it-legal-and-is-it-safe
+* https://www.fda.gov/consumers/consumer-updates/5-tips-traveling-us-medications
+  * The above duplicates the answer here: https://www.fda.gov/about-fda/fda-basics/it-legal-me-personally-import-drugs
 
 ### Treating low blood sugar
 * http://www.joslin.org/info/how_to_treat_a_low_blood_glucose.html

@@ -46,10 +46,11 @@ differentiate between viral and bacterial pneumonia).
 
 [Type 1 diabetes](https://en.wikipedia.org/wiki/Type_1_diabetes) is an
 autoimmune disease, caused when the body's own immune system destroys the cells
-that produce insulin. It can come on fast (usually in kids) or slow (usually in
-adults). While the exact causes are unknown, it is suspected that the disease is
-"activated" in people with at-risk genes by some sort of environmental trigger
-event (e.g. illness, stress, pregnancy).
+that produce insulin. It can come on quickly over days or weeks (usually in
+kids) or slow over months or even years (usually in adults). While the exact
+causes are unknown, it is suspected that the disease is "activated" in people
+with at-risk genes by some sort of environmental trigger event (e.g. illness,
+stress, pregnancy).
 
 Despite once being called Juvenile Diabetes, more than half of all new cases of
 Type 1 are in adults. If misdiagnosis rates were to be corrected, that number
@@ -90,7 +91,7 @@ metabolic disorder associated with a body's inability to use insulin
 efficiently. Up to 1/3 of Americans have or are at risk of developing this
 disease. No one knows what causes this disease, but genetics contribute
 significantly to your risk. It is not caused by eating too much sugar or being
-overweight, but these activities also significantly increase your risk.
+overweight, but these activities do significantly increase your risk.
 Increased insulin resistance (whether from Type 2, PCOS, or metabolic syndrome)
 has been known to cause weight gain. It can't be cured, but some people with
 Type 2 are able to effectly keep the disease in remission through medication,
@@ -100,8 +101,8 @@ Despite being the most common form of diabetes, it is also one of the least
 understood. The official classification for Type 2 basically says that it is the
 diabetes you have if you do _not_ have any other kind of diabetes.
 
-Roughly 20% of people diagnosed as Type 2 are misdiagnosed and actually have
-Type 1, Type 3c, or MODY.
+Approximately 20% of people currently diagnosed as Type 2 are misdiagnosed and
+actually have Type 1, Type 3c, or MODY.
 
 ## Type 3c
 
@@ -125,17 +126,17 @@ as another kind of diabetes.
 
 ## Secondary diabetes
 
-> It's like Type 3c but instead of being rear-ended, your mechanic accidentally
-> poked a hole in your gas tank.
+> It's like Type 3c but instead of being rear-ended, it's likely that your
+> mechanic accidentally poked a hole in your gas tank.
 
 Secondary diabetes is caused by damage to the insulin-producing cells in the
 pancreas by some external factor not specifically described by another type. The
-most common form of secondary diabetes results from side effects to medications
-like chemotherapy.
+most common form of secondary diabetes is drug-induced diabetes resulting from
+side effects to medications like chemotherapy.
 
 ## MODY (maturity onset diabetes of the young)
 
-> You're don't realize it but you're driving a Yugo, one of 11 specific kinds of
+> You don't realize it but you're driving a Yugo, one of 11 specific kinds of
 > car that just weren't built to run properly.
 >
 > It's **very** expensive and time consuming to run a check on your VIN and see
@@ -191,11 +192,11 @@ accompanied by hearing loss.
 Gestational diabetes is a temporary form of diabetes that occurs in some
 pregnant women. While this usually goes away after the child is born, pregnancy
 is also one of the known trigger events in people at risk for Type 1, which can
-come on immediately after the pregnancy, or years later. Doctors should, but
-rarely test for the autoantibodies that would differentiate "regular"
+come on immediately after the pregnancy, or years later. Though it's rarely done,
+doctors should test for the autoantibodies that would differentiate "regular"
 gestational diabetes from
 [autoimmune gestational daibetes](http://adultt1diabetes.blogspot.com/2015/05/autoimmune-gestational-diabetes.html)
-that should be diagnosed as Type 1.
+that would eventually be diagnosed as Type 1.
 
 ---
 
@@ -217,7 +218,7 @@ yet been _officially_ recognized as its own form of diabetes mellitus.
 
 Despite the similarity in their names, Type 3 has nothing to do with Type 3c.
 
-## LADA (Latent Autoimmune Diabetes in Adults)
+## SPIDDM and LADA (Latent Autoimmune Diabetes in Adults)
 
 > You have Type 1 but the leak in your gas tank develops slowly. Most of you are
 > driving older cars.
@@ -232,7 +233,13 @@ seen in adults.
 There are a number of recognized problems with the current criteria used to
 describe LADA, so doctors are currently [working to define](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/)
 what is different between LADA and "regular" Type 1. It may some day become its
-own official type, but until then
+own official type, but until then it's just "medical slang" because people feel
+the need to differentiate between those who get Type 1 in childhood or as an
+adult.
+
+## SPIDDM (Slowly Progressive Insulin-dependent Diabetes Mellitus)
+
+[SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) is an unofficial term [classified in 2015](https://link.springer.com/article/10.1007/s13340-014-0199-2)
 
 ## Double Diabetes
 
@@ -260,9 +267,11 @@ accurately describe the underlying medical conditions.
 > You're driving a gas-guzzling SUV while your washer fluid tank is also leaking
 > and causing your gas tank to rust and leak.
 
-Type 1.5 was [coined in 1985](http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9),
-about 8 years before the LADA term was proposed, and essentially describes the
-same condition in less detail.
+Type 1.5 was [coined in 1985](http://www.thelancet.com/journals/lancet/issue/vol326no8459/PIIS0140-6736(00)X3205-9)
+to describe "a condition in which insulin sustains not life itself but the
+quality of life". About 8 years later, researchers proposed the term
+[LADA](lada-latent-autoimmune-diabetes-in-adults) to essentially describe the
+same condition in considerably more detail.
 
 Somehow over the years, the term has also started being used to describe a
 completely separate condition: Type 1 with severe insulin resistance.
@@ -272,6 +281,8 @@ unrelated definitions cause confusion and does not accurately describe either of
 these two unrelated but complex conditions.
 
 ---
+
+And then there is the other kind of diabetes:
 
 ### Diabetes Insipidus
 

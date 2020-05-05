@@ -59,6 +59,7 @@ I've included some links here to a number of research registries I know about:
 * https://www.findmecure.com/
 * https://www.antidote.me/
 * https://www.clarahealth.com/
+* https://registry.t1dplatform.org/landing
 
 P.S. You can help out even if you have a healthy immune system!  Research
 facilities like Benaroya Institute are always looking for healthy volunteers to
