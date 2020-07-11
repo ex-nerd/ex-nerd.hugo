@@ -67,8 +67,13 @@ In 1995, the US caught up with the rest of the world (_Note: I'm still looking f
 
 ### What's next?
 
-TBD.
+Still TBD.
 
+* [SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) or "Slowly Progressive
+  Type 1 Diabetes Mellitus" is an unofficial term
+  [classified in 2015](https://link.springer.com/article/10.1007/s13340-014-0199-2)
+  as a response to some of the problems with the LADA definition, particularly that
+  patients must be adults and not require insulin for at least 6 months after diagnosis.
 * The current state of naming confusion and continued (mis?) use of T1.5 and LADA
   * June 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/
   * Dec 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6300440/
