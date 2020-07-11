@@ -15,13 +15,13 @@ The name "Diabetes Mellitus" dates back roughly 500 years, and awarness of the d
 
 Until I finish this section, you can [read more about Diabetes Mellitus at Wikipedia](https://en.wikipedia.org/wiki/Diabetes_mellitus).
 
-Diapedia also has an [extensive writeup about the history of Diabetes Mellitus](https://www.diapedia.org/introduction-to-diabetes-mellitus/1104085121/diabetes-past-and-present), which includes the evolution of naming conventions.
+Diapedia also has an [extensive writeup about the history of Diabetes Mellitus](https://web.archive.org/web/20161008233314/http://www.diapedia.org/introduction-to-diabetes-mellitus/1104085121/diabetes-past-and-present), which includes the evolution of naming conventions.
 
 ### Severe and Mild Diabetes
 
 In the early years of modern understanding of diabetes, there was recognition that it occurred in "mild" and "severe" forms.
 I'm still looking for details about how prevelant these terms were in clinical terminology. So far, my best source is the
-rather short section from the [Diapedia entry on the history from 1900 to 1950](https://www.diapedia.org/introduction-to-diabetes-mellitus/1104085145/history-1900-to-1950),
+rather short section from the [Diapedia entry on the history from 1900 to 1950](https://web.archive.org/web/20160731010556/http://www.diapedia.org/introduction-to-diabetes-mellitus/1104085145/history-1900-to-1950),
 so please let me know more about the early days of classification.
 
 ### Juvenile and Adult Diabetes
@@ -37,10 +37,10 @@ which includes some ideas about how they basically to disappeared in the 1970s.
 
 Though not officially approved standardized until 1995 (more on that further down in the timeline), "Type 1 Diabetes" dates back to John Lister from 1951.
 
-I'll eventually fill in this section, but for now you can read more about the early days of the Type 1 name on Diapedia:
+I'll eventually fill in this section, but for now you can read more about the early days of the Type 1 name on Diapedia (_links go to the internet archive because Diapedia seems to have gone offline_):
 
-* John Lister: https://www.diapedia.org/type-1-diabetes-mellitus/2104085134/historical-aspects-of-type-1-diabetes
-* Andrew Cudworth, the man who popularized Lister's proposed names: https://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cudworth
+* [John Lister](https://web.archive.org/web/20170227045123/https://www.diapedia.org/type-1-diabetes-mellitus/2104085134/historical-aspects-of-type-1-diabetes)
+* [Andrew Cudworth, the man who popularized Lister's proposed names](https://web.archive.org/web/20160719024331/http://www.diapedia.org/introduction-to-diabetes-mellitus/1104106110/andrew-cudworth)
 
 ### Insulin Dependent Diabetes
 
