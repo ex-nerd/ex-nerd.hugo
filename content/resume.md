@@ -6,11 +6,13 @@ title = "Resumé:  Chris Petersen"
 {{% md %}}
 Hi, you've found my "full" resume (i.e. curriculum vitae). It isn't tailored for any specific job application, and contains a very wide sampling of skills and experience (often not specifically related to my chosen profession in technology).  I mostly use it as a conversation starter before providing a more concise/professional PDF version.
 
-This is always my most up-to-date resume — if you ask me for an updated version, I will just send you this URL.  You can also feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/exnerd), which I also keep up to date.
+This is always my most up-to-date resume — if you ask me for an updated version, I will just send you this URL.
 
 If you have my phone number on file, please do not call it. I don't answer unknown numbers and you are much more likely to receive a reply by sending job details to me via email. I check my email regularly and will reply quickly if I'm interested.
 
 <!-- However, I am not looking for employment at the moment. I am happily employed in a job that I enjoy. That doesn't mean that I'm not open to considering other opportunities, but it does mean that I have no interest in contract positions, anything outside of the Seattle area, or anything that pays less than what I currently make (so please provide salary ranges if you decide to contact me). -->
+
+Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/exnerd), which I also keep up to date.
 
 {{% /md %}}
 </article>
@@ -75,18 +77,16 @@ and are easy for future generations of developers to maintain.
     of enforcing access control based on arbitrary criteria to fit business
     needs.
   - Tutor front-end engineers in Python3 and ArangoDB's AQL language.
-
-  Pre-pivot:
-
-  - Help grow team from 5 engineers to approximately 15 (plus product and
-    design) while developing a large microservice platform in golang running on
-    kubernetes in Google Cloud, along with Postgres, Elasticsearch, Docusign,
-    and other related technologies. Work was shared evenly among the team but
-    my personal contributions focused heavily on contract management
-    (Docusign), Elasticsearch, and the beginnings of data collection for
-    analytics, metrics, and machine learning.
-  - Worked closely with other senior engineers, and mentored less-experienced
-    engineers in systems architecture and API design.
+  - _Pre-pivot:_
+    - Help grow team from 5 engineers to approximately 15 (plus product and
+      design) while developing a large microservice platform in golang running on
+      kubernetes in Google Cloud, along with Postgres, Elasticsearch, Docusign,
+      and other related technologies. Work was shared evenly among the team but
+      my personal contributions focused heavily on contract management
+      (Docusign), Elasticsearch, and the beginnings of data collection for
+      analytics, metrics, and machine learning.
+    - Worked closely with other senior engineers, and mentored less-experienced
+      engineers in systems architecture and API design.
 
 - **Sr. Software Engineer: [MetaBrite](http://metabrite.com)**
   _Seattle, WA, 7/21/16 to 3/27/18_
