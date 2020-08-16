@@ -13,7 +13,7 @@ a frenzy trying to find a replacement flavor (they eventually came up with
 something that's a combination of licorice root -- that's __not__ anise, and
 doesn't taste like it -- and wintergreen).
 
-<!--more-->
+<!-- more -->
 
 Many people (myself included) believe that safrole is only dangerous when
 extracted from the sassafras root itself (there is a common theory is in herbal

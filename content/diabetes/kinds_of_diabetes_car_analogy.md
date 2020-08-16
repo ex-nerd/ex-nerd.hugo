@@ -21,7 +21,7 @@ differences between these diseases, so I tried to come up with a simple and
 (hopefully) humerous analogy by thinking of each disease as a problem with your
 car.
 
-<!--more-->
+<!-- more -->
 
 While it is possible to _biologically_ have more than one of the conditions
 described below, the [current _medical_ classification

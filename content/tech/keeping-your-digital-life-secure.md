@@ -6,7 +6,7 @@ categories = ["Tech"]
 
 There have been a number of high-profile stories recently about hacking and digital identity theft, along with a rash of hacked yahoo.com email accounts that usually lead to scams/cons. When a number of my friends and family members fell victim to these hacks (thankfully not to the scams) and discovered that the collateral damage could be worse than the hack itself, I decided that I should put together some recommendations to help them avoid more trouble in the future.
 
-<!--more-->
+<!-- more -->
 
 Keep reading for a thorough explanation of how to recover from these email hacks, along with a bunch of recommendations for how to limit the chance of them happening, or the damage done if they do occur.
 

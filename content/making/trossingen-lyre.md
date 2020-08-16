@@ -21,7 +21,7 @@ soon), I decided to try my hand at this more difficult project.
 
 This is an **ongoing** project, so I will be updating this page as often as I can.
 
-<!--more-->
+<!-- more -->
 
 You can read more about the original lyre in the German Wikipedia article about the
 [Trossingen Lyre](https://de.wikipedia.org/wiki/Trossinger_Leier)

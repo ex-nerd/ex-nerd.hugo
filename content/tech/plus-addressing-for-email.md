@@ -8,7 +8,7 @@ Like most tech-savvy people, I have more than a handful of email addresses, and 
 
 This would be the perfect solution if it was actually supported by the majority of online account providers (and in the 6 years since this article was originally written, things aren't much better).
 
-<!--more-->
+<!-- more -->
 
 The technique for plus addressing is simple:  add a plus and a word after the username portion of your email address.  For example, `exnerd@example.com` would become `exnerd+shopping@example.com`.  This way, you can create a custom email address for certain types of transactions, or even for every company you do business with online.  The format is well-documented and supported by my favorite [free email provider](http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html).  It works great, too, until you run into a company that knows very little about technology.  Like all of my credit card companies, and about half of the online stores I shop at.
 

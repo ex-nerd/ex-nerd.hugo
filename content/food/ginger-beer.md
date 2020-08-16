@@ -8,7 +8,7 @@ draft = true
 
 I like spicy ginger beer but over the years I've seen the best and spiciest varieties disappear from the market.  Always in search of a way to do things myself, here is the recipe I came up with.
 
-<!--more-->
+<!-- more -->
 
 * 1/2 cup ginger juice
 * 1/3 cup galangal ginger juice (see instructions below)

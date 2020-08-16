@@ -17,7 +17,7 @@ of brews, but it's one **heck** of a strong cider.  So-called "real" brewers
 may scoff at the idea of using bread yeast, but keep in mind that things (flavor in particular) work differently with cider than beer or wine, and don't
 knock it until you taste it.
 
-<!--more-->
+<!-- more -->
 
 First, you will need the following:
 

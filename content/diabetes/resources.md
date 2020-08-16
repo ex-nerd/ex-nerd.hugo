@@ -9,7 +9,7 @@ I plan to eventually write about a bunch of these topics individually.  Until th
 here is my collection of links to a number of diabetes-releated topics that I have found
 especially helpful.
 
-<!--more-->
+<!-- more -->
 
 ### Blogs to read
 * Melitta is my favorite advocate about adult-onset T1, and always has great information with a strong emphasis on science and research.
