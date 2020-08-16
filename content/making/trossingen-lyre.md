@@ -8,8 +8,8 @@ tags = ["music", "woodworking", "making", "medieval", "viking"]
 
 # todo: finished project here, and make it look good on the full page
 #linktitle = ""
-#featured = "01_materials.jpg"
-#featuredpath = "/img/lyres"
+featured = "01_materials.jpg"
+featuredpath = "/img/trossingen_lyre"
 #featuredalt = ""
 +++
 
