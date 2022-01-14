@@ -115,7 +115,7 @@ actually have Type 1, Type 3c, or MODY.
 > Almost all of you are told to just start putting efficiency additives and
 > better fuel into your gas tank.
 
-[Type 3c diabetes](<https://en.wikipedia.org/wiki/Type_3c_(Pancreatogenic)_Diabetes>)
+[Type 3c or pancreoprivic diabetes](<https://en.wikipedia.org/wiki/Type_3c_(Pancreatogenic)_Diabetes>)
 is caused when the insulin-producing cells in the pancreas are damaged by
 another disease like pancreatitis or [cystic fibrosis](https://www.cff.org/Life-With-CF/Daily-Life/Cystic-Fibrosis-Related-Diabetes/).
 It used to be considered secondary diabetes, but is so prevalent it now has its
@@ -218,6 +218,8 @@ yet been _officially_ recognized as its own form of diabetes mellitus.
 
 Despite the similarity in their names, Type 3 has nothing to do with Type 3c.
 
+Confusingly, this term is also used by [organizations like TCOYD](https://tcoyd.org/category/type-3/) to refer to family/friends of people with diabetes.
+
 ## SPIDDM and LADA (Latent Autoimmune Diabetes in Adults)
 
 > You have Type 1 but the leak in your gas tank develops slowly. Most of you are
@@ -274,7 +276,7 @@ quality of life". About 8 years later, researchers proposed the term
 same condition in considerably more detail.
 
 Somehow over the years, the term has also started being used to describe a
-completely separate condition: Type 1 with severe insulin resistance.
+completely separate condition: [Type 1 with severe insulin resistance](https://www.diabetesincontrol.com/adajdrf-type-1-diabetes-sourcebook-excerpt-1-diagnosing-diabetes/), aka "Double Diabetes" (described above).
 
 Use of this term is discouraged in the medical community because its two
 unrelated definitions cause confusion and does not accurately describe either of

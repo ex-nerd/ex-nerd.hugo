@@ -89,7 +89,7 @@ and are easy for future generations of developers to maintain.
       engineers in systems architecture and API design.
 
 - **Sr. Software Engineer: [MetaBrite](http://metabrite.com)**
-  _Seattle, WA, 7/21/16 to 3/27/18_
+  _Seattle, WA, 7/31/16 to 3/27/18_
   - I did a little bit of everything at this now-defunct startup that focused
     on scanning grocery receipts and extracting and intuiting relevant
     information for the needs of our partners and data vendors.

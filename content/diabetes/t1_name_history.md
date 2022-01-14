@@ -49,7 +49,7 @@ This was partly in recognition that onset of the disease was not limited to chil
 
 ### Type 1.5
 
-The first appearance of the term "Type 1.5 diabetes" was published in an anonymous editorial in the medical journal [The Lancet in 1985<sup>1</sup>](#1), which finishes with the passage _"When diabetes is again reclassified we may find them accommodated in a new category of type 1 1/2; diabetes -- a condition in which insulin sustains not life itself but the quality of life."_
+The first appearance of the term "Type 1.5 diabetes" was published in an anonymous editorial in the medical journal [The Lancet in 1985 <sup>1</sup>](#1), which finishes with the passage _"When diabetes is again reclassified we may find them accommodated in a new category of type 1 1/2; diabetes -- a condition in which insulin sustains not life itself but the quality of life."_
 
 I haven't been able to determine how quickly use of this term spread to the medical community.  The only other significant reference I have been able to find from the time period is a [1988 article about classification of adults as IDDM<sup>2</sup>](#2), which merely references the original article as an example of why the diagnostic criteria of the day were not sufficient.
 
