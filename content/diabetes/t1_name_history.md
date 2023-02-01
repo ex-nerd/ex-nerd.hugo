@@ -44,7 +44,7 @@ I'll eventually fill in this section, but for now you can read more about the ea
 
 ### Insulin Dependent Diabetes
 
-In 1979, what was now know as Type 1 Diabetes was [classified as Insulin Dependent Diabetes](http://diabetes.diabetesjournals.org/content/28/12/1039).
+In 1979, what is now know as Type 1 Diabetes was [classified as Insulin Dependent Diabetes](http://diabetes.diabetesjournals.org/content/28/12/1039).
 This was partly in recognition that onset of the disease was not limited to children, and that those children eventually grew up to become adults.
 
 ### Type 1.5
@@ -78,6 +78,10 @@ Still TBD.
   * June 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/
   * Dec 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6300440/
 * Genetic research showing possible differences between rapid- and slow-onset T1
+* ICD Coding T1 vs T1.5/LADA
+  * https://revenuecycleadvisor.com/news-analysis/qa-icd-10-cm-coding-%E2%80%98type-15%E2%80%99-diabetes-mellitus
+  * https://www.mrahis.com/blog/how-to-suceed-in-coding-diabetes-mellitus
+  * https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1050647875
 * Any other ideas?
 
 For now, check out this article from 2003:

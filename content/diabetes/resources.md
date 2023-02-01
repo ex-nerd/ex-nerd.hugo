@@ -68,6 +68,12 @@ especially helpful.
 - http://care.diabetesjournals.org/content/41/9/1887
 - https://insulinnation.com/research/unraveling-the-genetic-components-of-type-1-diabetes/
 
+### Testing your at-risk family members
+
+- https://trialnet.org/ (US and many other countries around the world)
+- https://type1screen.org/ Australia (and maybe Aotearoa / New Zealand)
+- https://www.jdrf.org/t1d-resources/t1detect/ (anyone can order a test, but it's not free)
+
 ### Causes
 
 - Has some issues (confused about prevalence in adulthood and definition of LADA) but overall interesting: http://dlife.com/type-1-diabetes-genetic-hereditary-causes-treatment/
@@ -158,7 +164,10 @@ Prices may have changed since this list was created
 
 - https://beyondtype1.org/type-1-tsa-know-taking-off/
 - https://www.dexcom.com/dexcom-airport-and-travel-guide-flying-dexcom-cgm
-- https://www.tsa.gov/blog/2014/04/01/tsa-travel-tips-travelers-diabetes-or-other-medical-conditions
+- https://www.tsa.gov/blog/2020/11/13/travel-tip-traveling-diabetes
+  - https://www.tsa.gov/travel/special-procedures
+  - https://www.tsa.gov/travel/security-screening/whatcanibring/items/insulin
+  - https://www.tsa.gov/travel/security-screening/whatcanibring/items/insulin-pumps-and-glucose-monitors
 - Insulin pumps affected by altitude: http://care.diabetesjournals.org/content/34/9/1932
 
 ### Drinking Alcohol {#alcohol}
