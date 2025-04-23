@@ -193,8 +193,8 @@ accompanied by hearing loss.
 
 ## Wolfram Syndrome
 
-> You have a new car. It likely has a hole in the gas tank, and all of the other
-> fluids also leak. The windshield is painted over and the inside is sound-proof.
+> You have a new car. It likely has a hole in the gas tank, and other fluids
+> also leak. The windshield is painted over and the inside is sound-proof.
 
 [Wolfram syndrome](https://en.wikipedia.org/wiki/Wolfram_syndrome) or DIDMOAD
 (diabetes insipidus, diabetes mellitus, optic atrophy, and deafness) is a rare
