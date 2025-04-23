@@ -17,7 +17,7 @@ ignoreFiles = [ "\\.psd$" ]
     # Sets the meta tag description, usually reserved for the main page
     description          = "Chris Petersen.  Definitely not an ex-nerd from Seattle."
     # This will appear on the top left of the navigation bar
-    navbarTitle          = "Ex-Nerd"
+    navbarTitle          = "Ex-nerd"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
     socialAppearAtBottom = false
@@ -46,6 +46,40 @@ ignoreFiles = [ "\\.psd$" ]
     # Loading min files for exampleSite
     #customCSS            = ["/css/main.min.css"]
     #customJS             = ["/js/main.min.js"]
+
+# Insert your username and the icon will apear on the page as long as
+# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
+# The social media icons will appear on the sidebar
+[params.social]
+    github          = "ex-nerd"
+    bluesky         = "exnerd.bsky.social"
+    #bitbucket       = "exnerd"
+    #jsfiddle        = ""
+    #codepen         = ""
+    #foursquare      = ""
+    #dribbble        = ""
+    #deviantart      = ""
+    #behance         = ""
+    #flickr          = "ex-nerd"
+    #instagram       = "exnerd"
+    youtube         = "@ex-nerd"
+    #vimeo           = ""
+    #vine            = ""
+    #medium          = ""
+    #wordpress       = ""
+    #tumblr          = ""
+    #xing            = ""
+    linkedin        = "exnerd"
+    #slideshare      = ""
+    stackoverflow   = "402727/ex-nerd"
+    #reddit          = "ex-nerd"
+    #pinterest       = "geek4026"
+    #googleplus      = "ChrisPetersen_ex-nerd"
+    #facebook        = "exnerd.xris"
+    #facebook_admin  = ""
+    #twitter_domain  = ""
+    twitter         = "ex_nerd"
+    #email           = ""
 
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
@@ -118,35 +152,90 @@ ignoreFiles = [ "\\.psd$" ]
     identifier = "fas fa-file-alt"
     weight = 99
 
-# Insert your username and the icon will apear on the page as long as
-# socialAppearAtTop or socialAppearAtBottom is set to true in the params area
-# The social media icons will appear on the sidebar
-[social]
-    github          = "ex-nerd"
-    #bitbucket       = "exnerd"
-    jsfiddle        = ""
-    codepen         = ""
-    foursquare      = ""
-    dribbble        = ""
-    deviantart      = ""
-    behance         = ""
-    #flickr          = "ex-nerd"
-    #instagram       = "exnerd"
-    youtube         = "channel/UCLdWS1eLgqDKnWs0PnYmwBQ"
-    vimeo           = ""
-    vine            = ""
-    medium          = ""
-    wordpress       = ""
-    tumblr          = ""
-    xing            = ""
-    linkedin        = "exnerd"
-    slideshare      = ""
-    stackoverflow   = "402727/ex-nerd"
-    #reddit          = "ex-nerd"
-    #pinterest       = "geek4026"
-    #googleplus      = "ChrisPetersen_ex-nerd"
-    #facebook        = "exnerd.xris"
-    facebook_admin  = ""
-    twitter_domain  = ""
-    twitter         = "ex_nerd"
-    email           = ""
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.asciidocExt]
+        backend = "html5"
+        extensions = []
+        failureLevel = "fatal"
+        noHeaderOrFooter = true
+        preserveTOC = false
+        safeMode = "unsafe"
+        sectionNumbers = false
+        trace = false
+        verbose = false
+        workingFolderCurrent = false
+        [markup.asciidocExt.attributes]
+    [markup.blackFriday]
+        angledQuotes = false
+        footnoteAnchorPrefix = ""
+        footnoteReturnLinkContents = ""
+        fractions = true
+        hrefTargetBlank = false
+        latexDashes = true
+        nofollowLinks = false
+        noreferrerLinks = false
+        plainIDAnchors = true
+        skipHTML = false
+        smartDashes = true
+        smartypants = true
+        smartypantsQuotesNBSP = false
+        taskLists = true
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            definitionList = true
+            footnote = true
+            linkify = true
+            strikethrough = true
+            table = true
+            taskList = true
+            typographer = true
+        [markup.goldmark.parser]
+            autoHeadingID = true
+            autoHeadingIDType = "github"
+        [markup.goldmark.parser.attribute]
+            block = false
+            title = true
+        [markup.goldmark.renderer]
+            hardWraps = false
+            unsafe = true
+            xhtml = false
+    [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = false
+        lineNumbersInTable = true
+        noClasses = true
+        style = "monokai"
+        tabWidth = 4
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = false
+        startLevel = 2
+
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+  [[module.mounts]]
+    source = 'layouts'
+    target = 'layouts'
+  [[module.mounts]]
+    source = './hugo-easy-gallery/layouts/shortcodes/figure.html'
+    target = 'layouts/shortcodes/figure.html'
+  [[module.mounts]]
+    source = './hugo-easy-gallery/layouts/shortcodes/gallery.html'
+    target = 'layouts/shortcodes/gallery.html'
+  [[module.mounts]]
+    source = './hugo-easy-gallery/layouts/shortcodes/load-photoswipe.html'
+    target = 'layouts/shortcodes/load-photoswipe.html'
+  [[module.mounts]]
+    source = './hugo-easy-gallery/layouts/shortcodes/load-photoswipe-theme.html'
+    target = 'layouts/shortcodes/load-photoswipe-theme.html'
+
+  [[module.imports]]
+    path = "./hugo-future-imperfect/"
