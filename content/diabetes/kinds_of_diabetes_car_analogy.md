@@ -18,14 +18,14 @@ We now know that it refers to a family of different (and largely unrelated)
 diseases that all have the same symptoms before doctors can determine what has
 caused them. People -- even doctors -- still have trouble understanding the
 differences between these diseases, so I tried to come up with a simple and
-(hopefully) humerous analogy by thinking of each disease as a problem with your
+(hopefully) humorous analogy by thinking of each disease as a problem with your
 car.
 
 <!-- more -->
 
 While it is possible to _biologically_ have more than one of the conditions
 described below, the [current _medical_ classification
-system](http://care.diabetesjournals.org/content/42/Supplement_1/S13) and icd10
+system (2025)](https://diabetesjournals.org/care/article/48/Supplement_1/S27/157566/2-Diagnosis-and-Classification-of-Diabetes) and icd10
 coding for diabetes mellitus only allows for recognition that a patient has one
 kind of diabetes. The type of diabetes a person has is determined based on the
 "root cause" that triggered it, rather than the symptoms (similarly to how we
@@ -54,8 +54,8 @@ stress, pregnancy).
 
 Despite once being called Juvenile Diabetes, more than half of all new cases of
 Type 1 are in adults. If misdiagnosis rates were to be corrected, that number
-would climb to 75%. This means that half of people with Type 1 remain
-misdiagnosed as Type 2.
+would climb to 75%. This means that half of people with type 1 remain
+misdiagnosed as type 2.
 
 ## Type 1b (idiopathic)
 
@@ -64,13 +64,13 @@ misdiagnosed as Type 2.
 
 The term
 [idiopathic diabetes](https://www.healthcentral.com/article/idiopathic-diabetes)
-has been used for decades to describe a condition that looks and acts like Type
-1 (thus its classification as Type 1b), but the underlying cause cannot
+has been used for decades to describe a condition that looks and acts like type
+1 (thus its classification as type 1b), but the underlying cause cannot
 immediately be identified. There is a strong suspicion that we have not yet
-identified all of the kinds of autoantibodies associated with Type 1 (e.g. the
+identified all of the kinds of autoantibodies associated with type 1 (e.g. the
 fairly recent discovery of
 [ZnT8 autoantibodies](https://en.wikipedia.org/wiki/Zinc_transporter_8)), but
-there may also be other causes. Diagnosis of Type 1b is strongly associated with
+there may also be other causes. Diagnosis of type 1b is strongly associated with
 people of African and Asian descent.
 
 ## Type 2
@@ -92,24 +92,24 @@ efficiently. Up to 1/3 of Americans have or are at risk of developing this
 disease. No one knows what causes this disease, but genetics contribute
 significantly to your risk. It is not caused by eating too much sugar or being
 overweight, but these activities do significantly increase your risk.
-Increased insulin resistance (whether from Type 2, PCOS, or metabolic syndrome)
+Increased insulin resistance (whether from type 2, PCOS, or metabolic syndrome)
 has been known to cause weight gain. It can't be cured, but some people with
 Type 2 are able to effectly keep the disease in remission through medication,
 and careful control over diet and exercise.
 
 Despite being the most common form of diabetes, it is also one of the least
-understood. The official classification for Type 2 basically says that it is the
+understood. The official classification for type 2 basically says that it is the
 diabetes you have if you do _not_ have any other kind of diabetes.
 
-Approximately 20% of people currently diagnosed as Type 2 are misdiagnosed and
-actually have Type 1, Type 3c, or MODY.
+Approximately 20% of people currently diagnosed as type 2 are misdiagnosed and
+actually have type 1, type 3c, or MODY.
 
 ## Type 3c
 
 > You got rear-ended and your gas tank was damaged so it no longer holds fuel.
 > You might not even have a gas tank anymore.
 >
-> It's like Type 1, but you also have to deal with all of the other problems
+> It's like type 1, but you also have to deal with all of the other problems
 > caused by the collision.
 >
 > Almost all of you are told to just start putting efficiency additives and
@@ -121,12 +121,23 @@ another disease like pancreatitis or [cystic fibrosis](https://www.cff.org/Life-
 It used to be considered secondary diabetes, but is so prevalent it now has its
 own classification.
 
-It is estimated that over 97% of people with Type 3c are currently misdiagnosed
+It is estimated that over 97% of people with type 3c are currently misdiagnosed
 as another kind of diabetes.
+
+## Type 5
+
+> You couldn't afford gas when your car was new, but you drove it anyway. This
+> damaged the fuel system so it no longer works properly.
+
+In 2025, this [newly-classified form of diabetes](https://www.medscape.com/viewarticle/malnutrition-related-diabetes-officially-named-type-5-2025a10008pd)
+describes a form where severe childhood malnutrition damages the pancreas enough
+that it no longer effectively produces insulin. The disease presents similarly to
+and is treated as type 1, but recognizing the cause is malnutrition may allow for
+the discovery of additional treatments.
 
 ## Secondary diabetes
 
-> It's like Type 3c but instead of being rear-ended, it's likely that your
+> It's like type 3c but instead of being rear-ended, it's likely that your
 > mechanic accidentally poked a hole in your gas tank.
 
 Secondary diabetes is caused by damage to the insulin-producing cells in the
@@ -146,12 +157,12 @@ side effects to medications like chemotherapy.
 > better fuel into your gas tank.
 
 There are [11 distinct forms of MODY](https://en.wikipedia.org/wiki/Maturity_onset_diabetes_of_the_young),
-each caused by a single gene. Different forms share symptoms with both Type 1
-and Type 2. The only way to identify MODY is by family history and expensive
+each caused by a single gene. Different forms share symptoms with both type 1
+and type 2. The only way to identify MODY is by family history and expensive
 genetic testing.
 
 This is thought to be very rare (less than 0.5% of all cases of diabetes), but
-recent research suggests that 3-5% of people currently diagnosed as Type 2
+recent research suggests that 3-5% of people currently diagnosed as type 2
 actually have some form of MODY.
 
 ## Neonatal diabetes
@@ -177,8 +188,18 @@ certain oral medications.
 This rare form of diabetes is also known as
 [diabetes and deafness](https://en.wikipedia.org/wiki/Diabetes_mellitus_and_deafness),
 and is caused by mutations in mitochondrial DNA (which you get from your
-mother). Its symptoms are similar to Type 1, but as the name suggests it is also
+mother). Its symptoms are similar to type 1, but as the name suggests it is also
 accompanied by hearing loss.
+
+## Wolfram Syndrome
+
+> You have a new car. It likely has a hole in the gas tank, and all of the other
+> fluids also leak. The windshield is painted over and the inside is sound-proof.
+
+[Wolfram syndrome](https://en.wikipedia.org/wiki/Wolfram_syndrome) or DIDMOAD
+(diabetes insipidus, diabetes mellitus, optic atrophy, and deafness) is a rare
+genetic disease that causes diabetes mellitus and insipidus, along with
+blindness and deafness (often along with other conditions).
 
 ## Gestational diabetes
 
@@ -191,12 +212,12 @@ accompanied by hearing loss.
 
 Gestational diabetes is a temporary form of diabetes that occurs in some
 pregnant women. While this usually goes away after the child is born, pregnancy
-is also one of the known trigger events in people at risk for Type 1, which can
+is also one of the known trigger events in people at risk for type 1, which can
 come on immediately after the pregnancy, or years later. Though it's rarely done,
 doctors should test for the autoantibodies that would differentiate "regular"
 gestational diabetes from
 [autoimmune gestational daibetes](http://adultt1diabetes.blogspot.com/2015/05/autoimmune-gestational-diabetes.html)
-that would eventually be diagnosed as Type 1.
+that would eventually be diagnosed as type 1.
 
 ---
 
@@ -216,31 +237,64 @@ form of Alzheimer's disease that is caused by insulin resistance within the
 brain. Though multiple studies have since confirmed this to be true, it has not
 yet been _officially_ recognized as its own form of diabetes mellitus.
 
-Despite the similarity in their names, Type 3 has nothing to do with Type 3c.
+Despite the similarity in their names, type 3 has nothing to do with type 3c.
 
 Confusingly, this term is also used by [organizations like TCOYD](https://tcoyd.org/category/type-3/) to refer to family/friends of people with diabetes.
 
+Additionally, there are references (e.g. [here](https://www.diabetes.co.uk/blog/2017/11/diabetes-awareness-month-different-forms-of-diabetes/)
+and [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC9698930/))
+to the idea that "type 3" is used to collect a variety of other specific
+classifications, from the recognized [type 3c](#type-3c)
+to others like 3a and 3b that could refer to [MODY](#mody-maturity-onset-diabetes-of-the-young),
+or 3f that could describe diabetes caused by an virus like hepatitis or SARS-Cov-2.
+
+_I am looking for the original source for these subclassifications for type 3.
+Please let me know if you know what it is._
+
+## Type 4
+
+> Your car isn't working properly and your mechanic might have gotten their
+> training in Germany or by watching the wrong youtube videos.
+
+There are a number of online resources that use the term "type 4 diabetes" to
+This analogy is likely to change because there are multiple competing proposals
+to use "type 4" to refer to:
+
+- Gestational Diabetes. While there is at least one [older source in english](https://pmc.ncbi.nlm.nih.gov/articles/PMC1113665/) 
+  referring to GD as "type 4," most of the more recent information I can find is
+  in German. The fact that even the [German Wikipedia entry for GD](https://de.wikipedia.org/wiki/Schwangerschaftsdiabetes)
+  references type 4 suggests the usage is fairly common.
+- [Other genetic syndromes occasionally associated with diabetes](https://pmc.ncbi.nlm.nih.gov/articles/PMC9698930/). _I need
+  more time with this paper. It references a bunch of "types" that don't seem to
+  be supported by the citation._
+- [Diabetes in elderly patients who are not overweight](https://www.salk.edu/news/salk-news/faq-on-type-4-diabetes/). _Note that initial
+  research from Ronald Evans, Ye Zheng, et. al. was only performed on mice._
+- [Glaucoma](https://pubmed.ncbi.nlm.nih.gov/28176628/)
+- "Brain diabetes." [Further research](https://wchh.onlinelibrary.wiley.com/doi/10.1002/pdi.2303) seems to combine the Evans, Zheng,
+  et. al. theory with research on glaucoma and even the older "type 3" proposal
+  related to Alzheimer's.
+
 ## SPIDDM and LADA (Latent Autoimmune Diabetes in Adults)
 
-> You have Type 1 but the leak in your gas tank develops slowly. Most of you are
+> You have type 1 but the leak in your gas tank develops slowly. Most of you are
 > driving older cars.
 
 [LADA](https://en.wikipedia.org/wiki/Latent_autoimmune_diabetes_in_adults) is an
 unofficial term [proposed in 1993](https://www.ncbi.nlm.nih.gov/pubmed/8425674)
 that pre-dates the official classification that all autoimmune diabetes mellitus
-is Type 1 (1995). It is currently used to differentiate the rapid-onset form of
+is type 1 (1995). It is currently used to differentiate the rapid-onset form of
 the disease most often seen in young people from the slow-onset form most often
 seen in adults.
 
 There are a number of recognized problems with the current criteria used to
 describe LADA, so doctors are currently [working to define](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021307/)
-what is different between LADA and "regular" Type 1.
+what is different between LADA and "regular" type 1.
 [SPIDDM](https://www.ncbi.nlm.nih.gov/pubmed/31819572) or "Slowly Progressive
 Type 1 Diabetes Mellitus" is an unofficial term
 [classified in 2015](https://link.springer.com/article/10.1007/s13340-014-0199-2)
 as one possible answer to the problematic criteria. One or both of these terms
 may some day become its own official type, but until then it's just "medical
-slang" because people feel the need to differentiate between those who get Type
+slang" because people feel the need to differentiate between those who get type
 1 in childhood or as an adult.
 
 ## Double Diabetes
@@ -250,10 +304,10 @@ slang" because people feel the need to differentiate between those who get Type
 
 This unofficial term is used by some people to describe simultaneously having
 autoimmune diabetes (Type 1) and severe insulin resistance (which might
-otherwise be diagnosed as Type 2, or is caused by a different disorder like
+otherwise be diagnosed as type 2, or is caused by a different disorder like
 [polycystic ovary syndrome](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome)).
 
-Roughly half of people with Type 1 are overweight and have mild to severe
+Roughly half of people with type 1 are overweight and have mild to severe
 insulin resistance (about the same as the non-diabetic population).
 
 Use of this term is discouraged in the medical community because it does not
@@ -261,7 +315,7 @@ accurately describe the underlying medical conditions.
 
 ## Type 1.5
 
-> You have Type 1 but the leak in your gas tank develops slowly. Most of you are
+> You have type 1 but the leak in your gas tank develops slowly. Most of you are
 > driving older cars.
 >
 > **_Or_**
