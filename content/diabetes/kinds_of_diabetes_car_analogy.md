@@ -1,5 +1,5 @@
 +++
-date = "2019-11-01T20:00:00-07:00"
+date = "2025-04-23T00:00:00-07:00"
 title = "Kinds of Diabetes: Car Analogy"
 categories = ["Diabetes"]
 tags = ["health", "diabetes"]
